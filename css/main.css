@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: Optima, Candara, Calibri, Arial, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -20,11 +20,11 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     line-height: 1.4em;
     color: #333;
