@@ -13,8 +13,6 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    display: block;
-	margin: 1rem 0;
     text-decoration: none;
     color: #999;
 }
@@ -23,11 +21,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Libertine';
+    font-family:'Georgia';
 }
 p {
     font-size: 1.5em;
-    font-family:'Libertine';
+    font-family:'Georgia';
     line-height: 1.4em;
     color: #333;
 }
