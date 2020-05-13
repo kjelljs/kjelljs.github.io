@@ -13,6 +13,8 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
+    display: block;
+	margin: 1rem 0;
     text-decoration: none;
     color: #999;
 }
