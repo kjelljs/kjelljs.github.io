@@ -21,10 +21,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Verdana';
 }
 p {
     font-size: 1.5em;
+    font-family:'Verdana';
     line-height: 1.4em;
     color: #333;
 }
