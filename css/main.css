@@ -2,7 +2,7 @@ main {
   margin-left: 200px; /* Same as the width of the sidenav */
 }
 body {
-    margin: 60px auto;
+    /*margin: 60px auto;*/
     width: 70%;
 }
 nav ul, footer ul {
@@ -23,8 +23,8 @@ sidenav {
   height: 100%;
   width: 100px;
   margin-left: 20px;
-  /*position: fixed;
-  /*z-index: 1;
+  position: fixed;
+  z-index: 1;
   /*top: 0;
   /*left: 0; */
   background-color: #333;
