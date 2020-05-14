@@ -24,7 +24,6 @@ sidenav {
   width: 100px;
   margin-left: 20px;
   position: fixed;
-  list-style: none;
   z-index: 1;
   top: 0;
   left: 0;
@@ -33,6 +32,10 @@ sidenav {
   padding-top: 20px;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
   font-weight: bold;
+}
+
+sidenav ul {
+  list-style: none;
 }
 
 sidenav a {
