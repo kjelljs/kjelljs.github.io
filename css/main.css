@@ -16,7 +16,7 @@ nav ul li, footer ul li {
   border-radius: 5px;
 }
 
-.sidenav {
+sidenav {
   height: 100%;
   width: 200px;
   position: fixed;
@@ -28,7 +28,7 @@ nav ul li, footer ul li {
   padding-top: 20px;
 }
 
-.sidenav a {
+sidenav a {
   padding: 6px 6px 6px 32px;
   text-decoration: none;
   font-size: 25px;
@@ -36,15 +36,15 @@ nav ul li, footer ul li {
   display: block;
 }
 
-.sidenav a:hover {
+sidenav a:hover {
   color: #f1f1f1;
 }
 
-a {
+nav a, footer a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
+nav a:hover, footer a:hover {
     text-decoration: underline;
 }
 h1 {
