@@ -21,13 +21,14 @@ nav ul li, footer ul li {
 
 sidenav {
   height: 100%;
-  width: 140px;
+  width: 100px;
   margin-left: 20px;
   position: fixed;
+  list-style: none;
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #222;
+  background-color: #333;
   overflow-x: hidden;
   padding-top: 20px;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
@@ -37,8 +38,8 @@ sidenav {
 sidenav a {
   padding: 6px 6px 6px 32px;
   text-decoration: none;
-  font-size: 25px;
-  color: #818181;
+  font-size: 15px;
+  color: #9a9a9a;
   display: block;
 }
 
