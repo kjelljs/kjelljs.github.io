@@ -29,7 +29,7 @@ sidenav {
   left: 0; 
   background-color: #a0a0a0;
   overflow-x: hidden;
-  padding-top: 20px;
+  padding-top: 40px;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
   font-weight: bold;
 }
@@ -42,12 +42,12 @@ sidenav a {
   padding: 8px 20px 8px 0px;
   text-decoration: none;
   font-size: 1.2em;
-  color: #f0f0f0;
+  color: #e0e0e0;
   display: block;
 }
 
 sidenav a:hover {
-  color: #f1f1f1;
+  color: #ffffff;
 }
 
 nav a, footer a {
