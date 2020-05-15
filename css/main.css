@@ -21,8 +21,7 @@ nav ul li, footer ul li {
 
 sidenav {
   height: 100%;
-  width: 100px;
-  margin-top: 60px auto;
+  width: 200px;
   margin-left: 20px;
   position: fixed;
   z-index: 1;
@@ -30,7 +29,7 @@ sidenav {
   left: 0; 
   background-color: #88888;
   overflow-x: hidden;
-  padding-top: 20px;
+  padding-top: 60px auto;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
   font-weight: bold;
 }
