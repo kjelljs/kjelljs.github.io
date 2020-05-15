@@ -29,7 +29,7 @@ sidenav {
   left: 0; 
   background-color: #a0a0a0;
   overflow-x: hidden;
-  padding-top: 40px;
+  padding-top: 36px;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
   font-weight: bold;
 }
@@ -39,9 +39,9 @@ sidenav ul {
 }
 
 sidenav a {
-  padding: 8px 20px 8px 0px;
+  /*padding: 8px 20px 8px 0px;*/
   text-decoration: none;
-  font-size: 1.2em;
+  font-size: 1em;
   color: #e0e0e0;
   display: block;
 }
@@ -55,7 +55,7 @@ nav a, footer a {
     color: #999;
 }
 nav a:hover, footer a:hover {
-    text-decoration: underline;
+    color: #404040;
 }
 h1 {
     font-size: 2em;
