@@ -57,7 +57,7 @@ nav a, footer a {
 nav a:hover, footer a:hover {
     color: #404040;
 }
-blogpost li {
+posts ul {
    font-size: 1em; font-family: Optima, Candara, Calibri, Arial, sans-serif; line-height: 1.4em;
     color: #333
 }
