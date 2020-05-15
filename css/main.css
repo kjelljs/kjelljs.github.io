@@ -60,6 +60,7 @@ nav a:hover, footer a:hover {
 h1 {
     font-size: 2em;
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
+    color: #333;
 }
 p {
     font-size: 1em;
