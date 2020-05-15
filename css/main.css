@@ -39,7 +39,7 @@ sidenav ul {
 }
 
 sidenav a {
-  /*padding: 8px 20px 8px 0px;*/
+  padding: 8px 0px 8px 0px;
   text-decoration: none;
   font-size: 1em;
   color: #e0e0e0;
