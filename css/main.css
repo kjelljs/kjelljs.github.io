@@ -70,6 +70,7 @@ p {
 }
 p a {
   color: #6600ff;
+  text-decoration: none;
 }
 footer {
     border-top: 1px solid #d5d5d5;
