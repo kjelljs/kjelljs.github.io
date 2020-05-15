@@ -1,5 +1,5 @@
 main {
-  margin-left: 180px; /* Same as the width of the sidenav */
+  margin-left: 200px; /* Same as the width of the sidenav */
 }
 body {
     margin: 60px auto;
@@ -21,15 +21,15 @@ nav ul li, footer ul li {
 
 sidenav {
   height: 100%;
-  width: 80px;
+  width: 100px;
   margin-left: 20px;
   position: fixed;
   z-index: 1;
   top: 0;
   left: 0; 
-  background-color: #111;
+  background-color: #444;
   overflow-x: hidden;
-  padding-top: 60px auto;
+  padding-top: 20px;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
   font-weight: bold;
 }
@@ -42,7 +42,7 @@ sidenav a {
   padding: 8px 20px 8px 0px;
   text-decoration: none;
   font-size: 1.2em;
-  color: #e8e8e8;
+  color: #9a9a9a;
   display: block;
 }
 
@@ -72,6 +72,14 @@ footer {
     font-size: .8em;
 }
 
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
