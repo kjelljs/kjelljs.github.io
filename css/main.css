@@ -25,9 +25,9 @@ sidenav {
   margin-left: 20px;
   position: fixed;
   z-index: 1;
-  /*top: 0;*/
+  top: 0;
   left: 0; 
-  background-color: #444;
+  background-color: #88888;
   overflow-x: hidden;
   padding-top: 20px;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
@@ -42,7 +42,7 @@ sidenav a {
   padding: 8px 20px 8px 0px;
   text-decoration: none;
   font-size: 1.2em;
-  color: #9a9a9a;
+  color: #e8e8e8;
   display: block;
 }
 
