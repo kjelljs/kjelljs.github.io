@@ -6,6 +6,6 @@ title: Kjell Johan Sæbø&#39;s Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li id="blogposts"><span>{{ post.date | date_to_date }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li id="blogposts"><span>{{ post.date | date:'yyyy-MM-dd' }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
