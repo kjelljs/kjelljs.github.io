@@ -1,5 +1,5 @@
 main {
-  margin-left: 200px; /* Same as the width of the sidenav */
+  margin-left: 220px; /* Same as the width of the sidenav */
 }
 body {
     margin: 60px auto;
@@ -21,7 +21,7 @@ nav ul li, footer ul li {
 
 sidenav {
   height: 100%;
-  width: 140px;
+  width: 160px;
   margin-left: 20px;
   position: fixed;
   z-index: 1;
