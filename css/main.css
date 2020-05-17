@@ -1,9 +1,9 @@
 main {
-  margin-left: 300px; /* Same as the width of the sidenav */
+  margin-left: 225px; /* Same as the width of the sidenav */
 }
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 60%;
 }
 nav ul, footer ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
