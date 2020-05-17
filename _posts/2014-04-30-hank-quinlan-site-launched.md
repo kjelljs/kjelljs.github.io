@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Kjell Johan Sæbø, famed linguist, launches site"
 date: 2014-04-30
 ---
 
