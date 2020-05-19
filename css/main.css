@@ -5,6 +5,16 @@ body {
     margin: 60px auto;
     width: 60%;
 }
+figure {
+    border: 1px solid #d5d5d5;
+    padding: 4px;
+    margin: auto;
+}
+figcaption {
+    color: #333;
+    text-align: center;
+    font-family: Optima, Candara, Calibri, Arial, sans-serif;
+}
 nav {
     border-bottom: 1px solid #d5d5d5;
     font-size: .8em;
