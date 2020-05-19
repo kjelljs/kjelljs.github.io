@@ -2,8 +2,13 @@
 layout: default
 title: Kjell Johan dissem
 ---
-<div class="blurb">
-	<h1>Kjell Johan disseminates</h1>
+<h1>{{ page.title }}</h1>
+	
 	<p><a href="http://kjelljs.github.io/pdf/Finteltweet.pdf">editorship</a></p>
 	<p>Her finner du en del formidlingsstoff.</p>
-</div><!-- /.blurb -->
+
+<ul class="posts">
+
+	<li id="blogposts">» <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> </li>
+	  {% endfor %}
+	</ul>
