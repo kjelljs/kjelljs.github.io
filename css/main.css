@@ -5,6 +5,10 @@ body {
     margin: 60px auto;
     width: 60%;
 }
+nav {
+    border-bottom: 1px solid #d5d5d5;
+    font-size: 1em;
+}
 nav ul, footer ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     padding: 0px;
