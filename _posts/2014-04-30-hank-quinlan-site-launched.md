@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kjell Johan, famed linguist, launches site"
+title: "Kjell Johan, grossly underrated linguist, launches site"
 date: 2014-04-30
 ---
 
