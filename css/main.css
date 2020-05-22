@@ -64,6 +64,7 @@ nav a:hover, footer a:hover {
 #blogposts {
     font-family: Optima, Candara, Calibri, Arial, sans-serif; line-height: 1.8em;
     color: #333;
+    font-size: 1.2em;
 }
 h1 {
     font-size: 2em;
