@@ -61,7 +61,7 @@ nav a, footer a {
 nav a:hover, footer a:hover {
     color: #404040;
 }
-#blogposts {
+#blogposts li {
     font-family: Optima, Candara, Calibri, Arial, sans-serif; line-height: 1.8em;
     color: #333;
 }
