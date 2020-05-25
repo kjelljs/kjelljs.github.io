@@ -70,6 +70,8 @@ nav a:hover, footer a:hover {
     font-family: Optima, Candara, Calibri, Arial, sans-serif; line-height: 1.6em;
     color: #333;
     font-size: 1em;
+    padding-left: 0;
+    text-indent: 1em;
 }
 h1 {
     font-size: 2em;
