@@ -71,7 +71,7 @@ nav a:hover, footer a:hover {
     color: #333;
     font-size: 1em;
     margin-left: 0;
-    list-style-position: inside;
+    list-style-position: outside;
 }
 h1 {
     font-size: 2em;
