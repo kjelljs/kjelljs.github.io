@@ -1,9 +1,9 @@
 main {
-  margin-left: 220px; /* Same as the width of the sidenav */
+  margin-left: 210px; /* Same as the width of the sidenav */
 }
 body {
     margin: 60px auto;
-    width: 60%;
+    width: 62%;
 }
 nav {
     border-bottom: 1px solid #d5d5d5;
@@ -71,8 +71,8 @@ nav a:hover, footer a:hover {
     color: #333;
     font-size: 1em;
     padding-left: 0;
-    text-indent:-1em; 
-    margin-left:1em;
+    text-indent:-1.2em; 
+    margin-left:1.2em;
 }
 #pubs li {
   padding-bottom: .4em;
