@@ -64,8 +64,7 @@ nav a:hover, footer a:hover {
 
 rightsidebar {
     height: 100%;
-    width: 5%;
-    wdith: 20px;
+    width: 20px;
     right: 0;
     background-color: #a0a0a0;
     position: fixed;
