@@ -2,7 +2,8 @@ main {
   margin-left: 240px; /* Same as the width of the sidenav */
 }
 body {
-    width: 72%;
+     margin: 60px auto;
+     width: 72%;
 }
 nav {
     border-bottom: 1px solid #d5d5d5;
