@@ -61,6 +61,20 @@ nav a, footer a {
 nav a:hover, footer a:hover {
     color: #404040;
 }
+right-sidebar {
+  height: 100%;
+  width: 75px;
+  margin-left: 20px;
+  position: sticky;
+  z-index: 1;
+  top: 0;
+  left: 0; 
+  background-color: #a0a0a0;
+  overflow-x: hidden;
+  padding-top: 36px;
+  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+  font-weight: bold;
+}
 #blogposts {
     font-family: Optima, Candara, Calibri, Arial, sans-serif; line-height: 1.8em;
     color: #333;
