@@ -63,13 +63,14 @@ nav a:hover, footer a:hover {
 }
 
 rightsidebar {
-    height:100%;
-    width:5%;
-    right:0;
-    background-color:#a0a0a0;
-    position:fixed;
-    z-index:1;
-    overflow:auto
+    height: 100%;
+    width: 5%;
+    wdith: 20px;
+    right: 0;
+    background-color: #a0a0a0;
+    position: fixed;
+    z-index: 1;
+    overflow: auto
 }
 
 #blogposts {
