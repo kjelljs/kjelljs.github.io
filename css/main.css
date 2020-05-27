@@ -3,7 +3,7 @@ main {
 }
 body {
     margin: 60px auto;
-    width: 62%;
+    width: 82%;
 }
 nav {
     border-bottom: 1px solid #d5d5d5;
@@ -64,7 +64,7 @@ nav a:hover, footer a:hover {
 
 rightsidebar {
     height: 100%;
-    width: 20px;
+    width: 5%;
     right: 0;
     background-color: #a0a0a0;
     position: fixed;
