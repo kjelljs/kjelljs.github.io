@@ -66,15 +66,9 @@ right-sidebar {
   height: 100%;
   width: 75px;
   margin-right: 20%;
-  position: sticky;
-  z-index: 1;
-  top: 0;
-  left: 0; 
+  position: fixed;
   background-color: #a0a0a0;
-  overflow-x: hidden;
   padding-top: 36px;
-  font-family: Optima, Candara, Calibri, Arial, sans-serif;
-  font-weight: bold;
 }
 
 #blogposts {
