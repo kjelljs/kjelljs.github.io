@@ -64,7 +64,8 @@ nav a:hover, footer a:hover {
 right-sidebar {
   height: 100%;
   width: 75px;
-  margin-left: 20px;
+  margin-left: auto;
+  align-self: start;
   position: sticky;
   z-index: 1;
   top: 0;
