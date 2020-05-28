@@ -9,6 +9,7 @@ nav {
     margin-left: 226px;
     border-bottom: 1px solid #d5d5d5;
     font-size: 1em;
+    margin-right: 10%;
 }
 nav ul, footer ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
@@ -69,7 +70,7 @@ rightsidebar {
     right: 1%;
     top: 0;
     background-color: #a0a0a0;
-    position: fixed;
+    float: right;
     overflow: auto
 }
 
@@ -116,6 +117,7 @@ footer {
     margin-left: 226px;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    margin-right: 10%;
 }
 
 ul.posts { 
