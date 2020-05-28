@@ -3,6 +3,7 @@
 }
 body {
      margin: 60px auto;
+     max-width: 1200px;
 }
 nav {
     margin-left: 226px;
