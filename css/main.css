@@ -1,11 +1,11 @@
 #main {
-  margin: 0 8% 0 220px; /* Same as the width of the sidenav */
+  margin: 0 10% 0 226px; /* Same as the width of the sidenav */
 }
 body {
      margin: 60px auto;
 }
 nav {
-    margin-left: 220px;
+    margin-left: 226px;
     border-bottom: 1px solid #d5d5d5;
     font-size: 1em;
 }
@@ -24,7 +24,6 @@ nav ul li, footer ul li {
 }
 
 sidenav {
-  float: left;
   height: 100%;
   width: 175px;
   margin-left: 20px;
@@ -113,7 +112,7 @@ a {
   text-decoration: none;
 }
 footer {
-    margin-left: 220px;
+    margin-left: 226px;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
