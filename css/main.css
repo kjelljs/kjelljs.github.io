@@ -1,9 +1,9 @@
 main {
-  margin-left: 220px; /* Same as the width of the sidenav */
+  margin-left: 214px; /* Same as the width of the sidenav */
 }
 body {
      margin: 60px auto;
-     width: 64%;
+     width: 74%;
 }
 nav {
     border-bottom: 1px solid #d5d5d5;
@@ -66,7 +66,7 @@ nav a:hover, footer a:hover {
 rightsidebar {
     height: 100%;
     width: 5%;
-    right: 20px;
+    right: 1%;
     top: 0;
     background-color: #a0a0a0;
     position: fixed;
