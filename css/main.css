@@ -1,6 +1,5 @@
 main {
-  margin-left: 214px; /* Same as the width of the sidenav */
-  width: 50%;
+  margin: 0 5% 0 214px; /* Same as the width of the sidenav */
 }
 body {
      margin: 60px auto;
