@@ -1,10 +1,11 @@
 #main {
-  margin: 0 15px 0 214px; /* Same as the width of the sidenav */
+  margin: 0 8% 0 220px; /* Same as the width of the sidenav */
 }
 body {
      margin: 60px auto;
 }
 nav {
+    margin-left: 220px;
     border-bottom: 1px solid #d5d5d5;
     font-size: 1em;
 }
@@ -112,6 +113,7 @@ a {
   text-decoration: none;
 }
 footer {
+    margin-left: 220px;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
