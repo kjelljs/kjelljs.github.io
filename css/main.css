@@ -8,7 +8,7 @@ body {
 nav {
     margin-left: 226px;
     border-bottom: 1px solid #d5d5d5;
-    font-size: 1em;
+    font-size: 1.1em;
     margin-right: 8%;
 }
 nav ul, footer ul {
@@ -47,7 +47,7 @@ sidenav ul {
 sidenav a {
   padding: 8px 0px 8px 0px;
   text-decoration: none;
-  font-size: 1em;
+  font-size: 1.1em;
   color: #e0e0e0;
   display: block;
 }
@@ -120,7 +120,7 @@ a {
 footer {
     margin-left: 226px;
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: .9em;
     margin-right: 8%;
 }
 
