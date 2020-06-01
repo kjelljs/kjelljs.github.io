@@ -6,7 +6,7 @@ body {
      max-width: 1500px;
 }
 nav {
-    margin-left: 226px;
+    margin-left: 232px;
     border-bottom: 1px solid #d5d5d5;
     font-size: 1.1em;
     margin-right: 8%;
@@ -22,7 +22,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
     background: #eee;
   padding: 5px;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 sidenav {
@@ -118,7 +118,7 @@ a {
   text-decoration: none;
 }
 footer {
-    margin-left: 226px;
+    margin-left: 232px;
     border-top: 1px solid #d5d5d5;
     font-size: .9em;
     margin-right: 8%;
