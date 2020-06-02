@@ -1,15 +1,15 @@
 #main {
-  margin: 0 10% 0 226px; /* Same as the width of the sidenav */
+  margin: 0 8% 0 232px; /* Same as the width of the sidenav */
 }
 body {
      margin: 60px auto;
      max-width: 1500px;
 }
 nav {
-    margin-left: 226px;
+    margin-left: 232px;
     border-bottom: 1px solid #d5d5d5;
-    font-size: 1em;
-    margin-right: 10%;
+    font-size: 1.1em;
+    margin-right: 8%;
 }
 nav ul, footer ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
@@ -21,8 +21,8 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     background: #eee;
-  padding: 5px;
-  border-radius: 5px;
+  padding: 6px 8px 6px 8px;
+  border-radius: 6px;
 }
 
 sidenav {
@@ -47,7 +47,7 @@ sidenav ul {
 sidenav a {
   padding: 8px 0px 8px 0px;
   text-decoration: none;
-  font-size: 1em;
+  font-size: 1.1em;
   color: #e0e0e0;
   display: block;
 }
@@ -106,6 +106,10 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+.ingress {
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
 ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     list-style: none;
@@ -114,10 +118,10 @@ a {
   text-decoration: none;
 }
 footer {
-    margin-left: 226px;
+    margin-left: 232px;
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-    margin-right: 10%;
+    font-size: .9em;
+    margin-right: 8%;
 }
 
 ul.posts { 
