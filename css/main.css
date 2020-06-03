@@ -110,6 +110,22 @@ p {
   font-size: 1.1em;
   line-height: 1.5em;
 }
+.leftfig {
+    border: 1px solid none;
+    padding-left: none;
+    padding-right: 25px;
+    padding-bottom: none;
+    padding-top: 4px;
+    margin: auto;
+}
+.rightfig {
+    border: 1px solid none;
+    padding-left: 25px;
+    padding-right: none;
+    padding-bottom: none;
+    padding-top: 4px;
+    margin: auto;
+}
 ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     list-style: none;
