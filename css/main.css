@@ -114,7 +114,7 @@ p {
     border: 1px solid none;
     padding-left: none;
     padding-right: 25px;
-    padding-bottom: none;
+    padding-bottom: 4px;
     padding-top: 4px;
     margin: auto;
 }
@@ -122,7 +122,7 @@ p {
     border: 1px solid none;
     padding-left: 25px;
     padding-right: none;
-    padding-bottom: none;
+    padding-bottom: 4px;
     padding-top: 4px;
     margin: auto;
 }
