@@ -126,16 +126,6 @@ p {
     padding-top: 4px;
     margin: auto;
 }
-.midfig {
-    border: 1px solid none;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 4px;
-    padding-top: 4px;
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-}
 ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     list-style: none;
