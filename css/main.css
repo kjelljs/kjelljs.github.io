@@ -132,7 +132,7 @@ p {
     padding-right: 25px;
     padding-bottom: 4px;
     padding-top: 4px;
-    margin: auto;
+    text-align: center;
 }
 ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
