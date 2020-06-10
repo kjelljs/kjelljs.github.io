@@ -126,6 +126,14 @@ p {
     padding-top: 4px;
     margin: auto;
 }
+.midfig {
+    border: 1px solid none;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: none;
+    padding-top: 4px;
+    margin:0 auto;
+}
 ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     list-style: none;
