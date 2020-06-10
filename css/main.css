@@ -132,7 +132,7 @@ p {
     padding-right: 25px;
     padding-bottom: 4px;
     padding-top: 4px;
-    display:block;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
 }
