@@ -154,34 +154,33 @@ ul.posts li {
  }
 
  .tooltip .tooltiptext {
-   visibility: hidden;
-   width: 660px;
-   background-color: #808080;
-   color: #fff;
-   border-radius: 6px;
-   padding: 5px 0;
-   text-align: left;
-   position: absolute;
-   z-index: 1;
-   bottom: 100%;
-   left: 50%;
-   margin-left: -330px;
-   font-size: .9em;
-   font-family: Optima, Candara, Calibri, Arial, sans-serif;
-   font-weight: bold;
-   line-height: 1.3em;
- }
+  visibility: hidden;
+  width: 600px;
+  background-color: #808080;
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 5px 5px 5px 5px;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  right: 110%;
+  font-size: .9em;
+  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+  font-weight: bold;
+  line-height: 1.3em;
+}
 
- .tooltip .tooltiptext::after {
-   content: "";
-   position: absolute;
-   top: 100%;
-   left: 50%;
-   margin-left: -5px;
-   border-width: 5px;
-   border-style: solid;
-   border-color: #808080 transparent transparent transparent;
- }
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent transparent #808080;
+}
 
  .tooltip:hover .tooltiptext {
    visibility: visible;
