@@ -150,7 +150,7 @@ ul.posts li {
 }
 
 .tooltip {
-   position: relative;
+   position: absolute;
  }
 
  .tooltip .tooltiptext {
@@ -161,11 +161,11 @@ ul.posts li {
   text-align: left;
   border-radius: 6px;
   padding: 5px 5px 5px 5px;
-  position: absolute;
+  position: relative;
   z-index: 1;
   top: -5px;
-  right: 102%;
-  text-indent: none;
+  right: 105%;
+  text-indent: 1.2em;
   font-size: 1em;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
   line-height: 1.4em;
