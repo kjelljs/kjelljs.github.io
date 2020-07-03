@@ -150,22 +150,23 @@ ul.posts li {
 }
 
 .tooltip {
-   position: absolute;
+   position: relative;
  }
 
  .tooltip .tooltiptext {
   visibility: hidden;
-  width: 500px;
+  width: 575px;
   background-color: #808080;
   color: #fff;
   text-align: left;
   border-radius: 6px;
-  padding: 5px 5px 5px 5px;
-  position: relative;
+  padding: 6px 6px 6px 6px;
+  position: absolute;
   z-index: 1;
-  top: -5px;
+  top: 50%;
+  transform: translateY(-50%);
   right: 105%;
-  text-indent: 1.2em;
+  text-indent: 0em;
   font-size: 1em;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
   line-height: 1.4em;
