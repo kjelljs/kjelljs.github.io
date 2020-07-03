@@ -155,7 +155,7 @@ ul.posts li {
 
  .tooltip .tooltiptext {
   visibility: hidden;
-  width: 600px;
+  width: 500px;
   background-color: #808080;
   color: #fff;
   text-align: left;
@@ -164,11 +164,11 @@ ul.posts li {
   position: absolute;
   z-index: 1;
   top: -5px;
-  right: 110%;
-  font-size: .9em;
+  right: 102%;
+  text-indent: none;
+  font-size: 1em;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
-  font-weight: bold;
-  line-height: 1.3em;
+  line-height: 1.4em;
 }
 
 .tooltip .tooltiptext::after {
