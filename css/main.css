@@ -177,8 +177,8 @@ ul.posts li {
   position: absolute;
   top: 50%;
   left: 100%;
-  margin-top: -5px;
-  border-width: 5px;
+  margin-top: -8px;
+  border-width: 8px;
   border-style: solid;
   border-color: transparent transparent transparent #808080;
 }
