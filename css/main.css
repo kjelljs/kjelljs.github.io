@@ -151,7 +151,6 @@ ul.posts li {
 
 .tooltip {
    position: relative;
-   
  }
 
  .tooltip .tooltiptext {
@@ -161,6 +160,7 @@ ul.posts li {
    color: #fff;
    border-radius: 6px;
    padding: 5px 0;
+   text-align: left;
    position: absolute;
    z-index: 1;
    bottom: 150%;
@@ -179,7 +179,7 @@ ul.posts li {
    margin-left: -5px;
    border-width: 5px;
    border-style: solid;
-   border-color: #a0a0a0 transparent transparent transparent;
+   border-color: #808080 transparent transparent transparent;
  }
 
  .tooltip:hover .tooltiptext {
