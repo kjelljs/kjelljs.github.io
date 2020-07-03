@@ -155,12 +155,12 @@ ul.posts li {
 
  .tooltip .tooltiptext {
   visibility: hidden;
-  width: 575px;
+  width: 580px;
   background-color: #808080;
   color: #fff;
   text-align: left;
   border-radius: 6px;
-  padding: 6px 6px 6px 6px;
+  padding: 6px 10px 6px 10px;
   position: absolute;
   z-index: 1;
   top: 50%;
