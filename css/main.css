@@ -215,10 +215,10 @@ ul.posts li {
   position: absolute;
   top: 50%;
   right: 100%;
-  margin-top: 8px;
-  border-width: -8px;
+  margin-top: -8px;
+  border-width: 8px;
   border-style: solid;
-  border-color: transparent transparent transparent #808080;
+  border-color: transparent #808080 transparent transparent;
 }
 
  .righttooltip:hover .righttooltiptext {
