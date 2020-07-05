@@ -186,3 +186,42 @@ ul.posts li {
  .lefttooltip:hover .lefttooltiptext {
    visibility: visible;
  }
+
+.righttooltip {
+   position: relative;
+ }
+
+.righttooltip .righttooltiptext {
+  visibility: hidden;
+  width: 575px;
+  background-color: #808080;
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 8px 10px 8px 10px;
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 105%;
+  text-indent: 0em;
+  font-size: 1em;
+  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+  line-height: 1.4em;
+}
+
+.righttooltip .righttooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -8px;
+  border-width: 8px;
+  border-style: solid;
+  border-color: transparent transparent transparent #808080;
+}
+
+ .righttooltip:hover .righttooltiptext {
+   visibility: visible;
+ }
+
