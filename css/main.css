@@ -183,6 +183,6 @@ ul.posts li {
   border-color: transparent transparent transparent #808080;
 }
 
- .lefttooltip:hover .tooltiptext {
+ .lefttooltip:hover .lefttooltiptext {
    visibility: visible;
  }
