@@ -149,11 +149,11 @@ ul.posts li {
     list-style: none;
 }
 
-.tooltip {
+.lefttooltip {
    position: relative;
  }
 
- .tooltip .tooltiptext {
+ .lefttooltip .lefttooltiptext {
   visibility: hidden;
   width: 575px;
   background-color: #808080;
@@ -172,7 +172,7 @@ ul.posts li {
   line-height: 1.4em;
 }
 
-.tooltip .tooltiptext::after {
+.lefttooltip .lefttooltiptext::after {
   content: "";
   position: absolute;
   top: 50%;
@@ -183,6 +183,6 @@ ul.posts li {
   border-color: transparent transparent transparent #808080;
 }
 
- .tooltip:hover .tooltiptext {
+ .lefttooltip:hover .tooltiptext {
    visibility: visible;
  }
