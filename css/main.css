@@ -203,7 +203,7 @@ ul.posts li {
   z-index: 1;
   top: 50%;
   transform: translateY(-50%);
-  left: 105%;
+  left: 100%;
   text-indent: 0em;
   font-size: 1em;
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
@@ -215,8 +215,8 @@ ul.posts li {
   position: absolute;
   top: 50%;
   right: 100%;
-  margin-top: -8px;
-  border-width: 8px;
+  margin-top: 8px;
+  border-width: -8px;
   border-style: solid;
   border-color: transparent transparent transparent #808080;
 }
