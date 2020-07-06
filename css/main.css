@@ -232,11 +232,8 @@ ul.posts li {
 		}
 
 .zoom {
-  padding: 50px;
-  background-color: green;
-  transition: transform .2s;
-  width: 200px;
-  height: 200px;
+  padding: none;
+  transition: transform 1s;
   margin: 0 auto;
 }
 
