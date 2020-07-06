@@ -244,4 +244,5 @@ ul.posts li {
   -webkit-transform: scale(3); /* Safari 3-8 */
   transform: scale(3); 
   transform-origin: left bottom;
+  opacity: 1.0;
 }
