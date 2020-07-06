@@ -237,12 +237,13 @@ ul.posts li {
   width: 200px;
   height: 280px;
   margin: 0 auto;
+  opacity: 1;
 }
 
 .zoom:hover {
   -ms-transform: scale(3); /* IE 9 */
   -webkit-transform: scale(3); /* Safari 3-8 */
   transform: scale(3); 
-  transform-origin: left bottom;
-  opacity: 1.0;
+  transform-origin: right top;
+  opacity: 1;
 }
