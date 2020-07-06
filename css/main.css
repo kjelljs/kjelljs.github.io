@@ -233,9 +233,9 @@ ul.posts li {
 
 .zoom {
   padding: 0px;
-  transition: transform 1s;
-  width: 100%;
-  height: 100%;
+  transition: transform .5s;
+  width: auto;
+  height: 280px;
   margin: 0 auto;
 }
 
