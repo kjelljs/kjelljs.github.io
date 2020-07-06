@@ -149,13 +149,13 @@ ul.posts li {
     list-style: none;
 }
 
-.tooltip {
+.lefttooltip {
    position: relative;
  }
 
- .tooltip .tooltiptext {
+ .lefttooltip .lefttooltiptext {
   visibility: hidden;
-  width: 580px;
+  width: 575px;
   background-color: #808080;
   color: #fff;
   text-align: left;
@@ -172,17 +172,78 @@ ul.posts li {
   line-height: 1.4em;
 }
 
-.tooltip .tooltiptext::after {
+.lefttooltip .lefttooltiptext::after {
   content: "";
   position: absolute;
   top: 50%;
   left: 100%;
-  margin-top: -5px;
-  border-width: 5px;
+  margin-top: -8px;
+  border-width: 8px;
   border-style: solid;
   border-color: transparent transparent transparent #808080;
 }
 
- .tooltip:hover .tooltiptext {
+ .lefttooltip:hover .lefttooltiptext {
    visibility: visible;
  }
+
+.righttooltip {
+   position: relative;
+ }
+
+.righttooltip .righttooltiptext {
+  visibility: hidden;
+  width: 575px;
+  background-color: #808080;
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 8px 10px 8px 10px;
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 100%;
+  text-indent: 0em;
+  font-size: 1em;
+  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+  line-height: 1.4em;
+}
+
+.righttooltip .righttooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -8px;
+  border-width: 8px;
+  border-style: solid;
+  border-color: transparent #808080 transparent transparent;
+}
+
+ .righttooltip:hover .righttooltiptext {
+   visibility: visible;
+ }
+
+#border1 {
+			border: solid;
+			border-width: 1px 1px 1px 1px;
+      border-color: #D2B48C;
+		}
+
+.zoom {
+  padding: 0px;
+  transition: transform .5s;
+  width: 200px;
+  height: 280px;
+  margin: 0 auto;
+  opacity: 1;
+}
+
+.zoom:hover {
+  -ms-transform: scale(3); /* IE 9 */
+  -webkit-transform: scale(3); /* Safari 3-8 */
+  transform: scale(3); 
+  transform-origin: right top;
+  opacity: 1;
+}
