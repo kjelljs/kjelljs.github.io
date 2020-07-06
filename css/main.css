@@ -232,8 +232,10 @@ ul.posts li {
 		}
 
 .zoom {
-  padding: none;
+  padding: 0px;
   transition: transform 1s;
+  width: 200px;
+  height: 200px;
   margin: 0 auto;
 }
 
