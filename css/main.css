@@ -245,3 +245,18 @@ ul.posts li {
   transform: scale(3); 
   transform-origin: left bottom;
 }
+
+.rightzoom {
+  padding: 0px;
+  transition: transform .5s;
+  width: auto;
+  height: 280px;
+  margin: 0 auto;
+}
+
+.rightzoom:hover {
+  -ms-transform: scale(3); /* IE 9 */
+  -webkit-transform: scale(3); /* Safari 3-8 */
+  transform: scale(3); 
+  transform-origin: right top;
+}
