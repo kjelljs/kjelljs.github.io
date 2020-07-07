@@ -251,7 +251,7 @@ ul.posts li {
       -moz-transition: all .5s ease;
       -ms-transition: all .5s ease;
       transition: all .5s ease;
-	heigth: 280px;
+	heigth: 2.80px;
 	position: absolute;
     }
     .zoomin img:hover {
