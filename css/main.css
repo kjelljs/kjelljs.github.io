@@ -249,14 +249,14 @@ ul.posts li {
 }
 
 .zoomin img {
-      height: 280px;
       -webkit-transition: all .5s ease;
       -moz-transition: all .5s ease;
       -ms-transition: all .5s ease;
       transition: all .5s ease;
     }
     .zoomin img:hover {
-      height: 600px;
-	    -webkit-transform: scale(3); /* Safari 3-8 */
+      -ms-transform: scale(3); /* IE 9 */
+      -webkit-transform: scale(3); /* Safari 3-8 */
+      transform: scale(3); 
       transform-origin: left bottom;
     }
