@@ -253,6 +253,7 @@ ul.posts li {
       -webkit-transition: all .5s ease;
       -moz-transition: all .5s ease;
       -ms-transition: all .5s ease;
+      -webkit-transform: scale(3); /* Safari 3-8 */
       transition: all .5s ease;
     }
     .zoomin img:hover {
