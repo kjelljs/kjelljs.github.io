@@ -233,9 +233,10 @@ ul.posts li {
 
 .zoom {
   -webkit-transition: all .5s;
-      -moz-transition: all .5s ease;
-      -ms-transition: all .5s ease;
-      transition: all .5s ease;
+      -moz-transition: all .5s;
+      -ms-transition: all .5s;
+      transition: all .5s;
+	opacity: 1;
 }
 
 .zoom:hover {
@@ -243,11 +244,10 @@ ul.posts li {
   -webkit-transform: scale(2.5); /* Safari 3-8 */
   transform: scale(2.5); 
   transform-origin: right top;
-  opacity: 1;
 }
 
 .zoomin img {
-      -webkit-transition: all .5s;
+      -webkit-transition: all .5s ease;
       -moz-transition: all .5s ease;
       -ms-transition: all .5s ease;
       transition: all .5s ease;
