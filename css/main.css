@@ -232,11 +232,10 @@ ul.posts li {
 		}
 
 .zoom {
-  -webkit-transition: all .5s;
-      -moz-transition: all .5s;
-      -ms-transition: all .5s;
-      transition: all .5s;
-	opacity: 1;
+  -webkit-transition: all .5s ease;
+      -moz-transition: all .5s ease;
+      -ms-transition: all .5s ease;
+      transition: all .5s ease;
 }
 
 .zoom:hover {
@@ -251,7 +250,6 @@ ul.posts li {
       -moz-transition: all .5s ease;
       -ms-transition: all .5s ease;
       transition: all .5s ease;
-	heigth: 2.80px;
 	position: absolute;
     }
     .zoomin img:hover {
