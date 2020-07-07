@@ -251,7 +251,8 @@ ul.posts li {
       -moz-transition: all .5s ease;
       -ms-transition: all .5s ease;
       transition: all .5s ease;
-	width: 30%;
+	heigth: 280px;
+	position: absolute;
     }
     .zoomin img:hover {
       -ms-transform: scale(2.5); /* IE 9 */
