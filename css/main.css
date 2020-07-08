@@ -232,29 +232,29 @@ ul.posts li {
 		}
 
 .zoom {
-  -webkit-transition: .1s ease;
-      -moz-transition: .1s ease;
-      -ms-transition: .1s ease;
-      transition: .1s ease;
+  -webkit-transition: .4s ease;
+      -moz-transition: .4s ease;
+      -ms-transition: .4s ease;
+      transition: .4s ease;
 }
 
 .zoom:hover {
   -ms-transform: scale(2.5); /* IE 9 */
   -webkit-transform: scale(2.5); /* Safari 3-8 */
   transform: scale(2.5); 
-  transform-origin: top right;
+  transform-origin: 0% 100%;
 }
 
 .zoomin img {
-      -webkit-transition: .1s ease;
-      -moz-transition: .1s ease;
-      -ms-transition: .1s ease;
-      transition: .1s ease;
+      -webkit-transition: .4s ease;
+      -moz-transition: .4s ease;
+      -ms-transition: .4s ease;
+      transition: .4s ease;
     }
 
 .zoomin img:hover {
       -ms-transform: scale(2.5); /* IE 9 */
       -webkit-transform: scale(2.5); /* Safari 3-8 */
       transform: scale(2.5); 
-      transform-origin: bottom left;
+      transform-origin: 100% 0%;
     }
