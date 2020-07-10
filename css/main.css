@@ -106,6 +106,12 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+table {
+    font-size: 1em;
+    font-family: Optima, Candara, Calibri, Arial, sans-serif;
+    line-height: 1.4em;
+    color: #333;
+}
 .ingress {
   font-size: 1.1em;
   line-height: 1.5em;
