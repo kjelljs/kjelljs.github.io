@@ -161,14 +161,16 @@ figcaption {
 	<tbody>
 		<tr>
 			<th style="text-align: left">dyp syntaks</th>
-			<td style="text-align: center">du [ savner [ <span style="color: #ff0000">en kjæreste</span> ]]</td>
-			<td style="text-align: center">[ <span style="color: #ff0000">en kjæreste</span> ]<sub>x</sub> [ du [ savner x ]]</td>
+			<td style="text-align: center">du [ savner [ <span style="color: #ff0000">en kjæreste</span> P ]]</td>
+			<td style="text-align: center">[ <span style="color: #ff0000">en kjæreste</span> ]<sub>x</sub> [ du [ savner x P ]]</td>
 		</tr>
 		<tr>
 			<th style="text-align: left">semantikk</th>
-			<td style="text-align: center">(<font size="+1em">&forall;</font>w&#9655;<sub style="padding:0px; margin-left:-5px">x</sub>v)(<font size="+1em">∃</font>y <em>kjæreste</em><sub>w</sub>(x)(y) ∧ Q(y))</td>
-			<td style="text-align: center"><font size="+1em">∃</font>y <em>kjæreste</em><sub>w</sub>(x)(y)(<font size="+1em">&forall;</font>w&#9655;<sub style="padding:0px; margin-left:-5px">x</sub>v)(Q(y))</td>
+			<td style="text-align: center">(<font size="+1em">&forall;</font>w&#9655;<sub style="padding:0px; margin-left:-5px">x</sub>v)(<font size="+1em">∃</font>y <em>kjæreste</em><sub>w</sub>(x)(y) ∧ P<sub>w</sub>(y))</td>
+			<td style="text-align: center"><font size="+1em">∃</font>y <em>kjæreste</em><sub>v</sub>(x)(y)(<font size="+1em">&forall;</font>w&#9655;<sub style="padding:0px; margin-left:-5px">x</sub>v)(P<sub>w</sub>(y))</td>
 		</tr>
 	</tbody>
 	</table></figure></div>
+<p>Semantikken er slik å forstå: <font size="+1em">&forall;</font>w&#9655;<sub style="padding:0px; margin-left:-5px">x</sub>v vil si 'i alle mulige verdener w som er tilgjengelige fra v, den virkelige verden, hvor x ikke savner noe', <font size="+1em">∃</font>y <em>kjæreste</em><sub>v/w</sub>(x)(y) vil si 'x har en kjæreste y i verdenen v/w', og P<sub>w</sub>(y) vil si at y, kjæresten, har egenskapen P i verdenen w, for eksempel 'eksisterer' eller 'er hos x'.
+</p>
 </section>
