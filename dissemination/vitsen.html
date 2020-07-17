@@ -174,9 +174,32 @@ figcaption {
 <p>Semantikken er slik å forstå: <font size="+1em">&forall;</font>w&#9655;<span style="position: relative; top: 0.8ex; font-size: 75%; padding:0px; margin-left:-5px">x</span>v vil si 'i alle mulige verdener w tilgjengelige fra v, den virkelige verden, hvor x ikke savner noe', <font size="+1em">∃</font>y <em>kjæreste</em><span style="position: relative; top: 0.8ex; font-size: 75%">v/w</span>(x)(y) vil si 'x har en kjæreste y i verdenen v/w', og P<span style="position: relative; top: 0.8ex; font-size: 75%; padding:0px; margin-left:-2px">w</span>(y) vil si at y, kjæresten, har egenskapen P i verdenen w, for eksempel 'eksisterer' eller 'er hos x'.
 	</p>
 </section>
-<section>
-<h2>Strikt og 'sloppy' identitet</h2>
+<section></br>
+<h2>Absolutt og relativ identitet</h2>
 <div style="float:right;"><figure class="rightfig"><a href="/pics/ErnieBert.mp4"><img src="/pics/EB.jpg" style="height: 280px"></a><figcaption>Tekst: Mark Saltzman</figcaption></figure></div>
-<p>I såkalte VP-ellipser &ndash; for eksempel, <i>Jeg ville gitt det store stykket til deg, og det burde du også</i> &ndash; 
+<p>Såkalte VP-ellipser &ndash; for eksempel, <i>Jeg ville gitt det store stykket til deg, og <b>det burde du også</b></i> &ndash; kan være tvetydige mellom en 'strict' og en 'sloppy' tolkning:</p> <p>Du burde gi det store stykket til deg (selv) &ndash; 'strict' &ndash; eller, du burde gi det store stykket til den andre, den som får &ndash; 'sloppy' . Det er denne andre tolkningen som er ment, og som er plausibel.
 </p>
+<p>Men vanligvis ser en da på tilfeller med pronomen i tredje person, personlige, possessive og/eller refleksive, som har referanse som varierer med setningskonteksten. Det som er det spesielle med dette tilfellet, er at pronomenene &ndash; <i>you</i> og <i>myself</i> &ndash; er i første og andre person, og de kan egentlig ikke variere med annet enn den som snakker, som her er Bernt, og den som snakkes til, som her er Erling. Så det burde bare være den strikte tolkningen som var mulig.</p><p>Altså må pronomenene omtolkes. Og igjen er det ennå ikke helt klart hvordan dette skjer. Men på en eller annen måte må <i>you</i> og <i>myself</i> forstås som om det i stedet ble brukt en beskrivelse i bestemt form, la oss si <i>den andre</i> eller <i>den som får</i>, versus <i>den samme</i> eller <i>den som gir</i>.</p> <p>Én enkel måte å formalisere dette på, er å representere verbalfrasen <i>gi det store stykket til deg</i> som <font size="+1em">λ</font>x gi(storstykket)(ƒ(x))(x) der ƒ avbilder x på den av Bernt og Erling som er ulik x.</p>
+<div style="float:left"><figure class="leftfig">
+<table border="1" cellspacing="1">
+	<thead>
+		<tr>
+			<th style="text-align: left">identitet</th>
+			<td style="text-align: center"><i>jeg ville, og du burde...</i></td>
+			<td style="text-align: left">hvem sin tolkning</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th style="text-align: left">absolutt (strict)</th>
+			<td style="text-align: center"><font size="+1em">λ</font><span style="color: #ff0000">x</span> gi(<strong>stor</strong>stykket)(<img align="top" alt="" src="/pics/erling.jpg" style="width: 20px" />)(x) ∧ gi(<strong>små</strong>stykket)(<img align="top" alt="" src="/pics/bernt.jpg" style="width: 20px; height: 20px" />)(x)</td>
+			<td style="text-align: left">Erling sin</td>
+		</tr>
+		<tr>
+			<th style="text-align: left">relativ (sloppy)</th>
+			<td style="text-align: center"><font size="+0">λ</font><span style="color: #ff0000">x</span> gi(<strong>stor</strong>stykket)(<span style="color: #ff0000">ƒ(x)</span>)(x) ∧ gi(<strong>små</strong>stykket)(<span style="color: #ff0000">x</span>)(x)</td>
+			<td style="text-align: left">Bernt sin</td>
+		</tr>
+	</tbody>
+	</table></figure></div>
 </section>
