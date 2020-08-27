@@ -139,6 +139,9 @@ ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     list-style: none;
 }
+ol {
+    font-family: Optima, Candara, Calibri, Arial, sans-serif;
+}
 a {
   text-decoration: none;
 }
