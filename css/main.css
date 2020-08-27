@@ -153,7 +153,7 @@ footer {
 }
 
 ol li:not(:last-child) {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 ul.posts { 
