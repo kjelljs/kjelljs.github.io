@@ -152,8 +152,8 @@ footer {
     margin-right: 8%;
 }
 
-ol.li:not(:last-child) {
-    margin-bottom: 5px;
+ol li:not(:last-child) {
+    margin-bottom: 10px;
 }
 
 ul.posts { 
