@@ -274,3 +274,8 @@ ul.posts li {
       transform: scale(2.5); 
       transform-origin: 0% 100%;
     }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
