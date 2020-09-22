@@ -1,3 +1,19 @@
-Kontrastive Syntax Norwegisch–Deutsch
+---
+layout: post
+title: "Kontrastive Syntax Norwegisch–Deutsch
+"
 
-Her ligger kompendiet Kontrastive Syntax Norwegisch–Deutsch, “Ergebnis einer gründlichen Überarbeitung der erstmals 1997 erschienenen, seither mehrmals leicht geänderten deutschen Fassung der norwegischen Erstfassung Norsk–tysk syntaks von 1995”.
+---
+<style>
+figure {
+    border: 1px solid none;
+    padding-right: none;
+    padding-left: 25px;
+    padding-bottom: none;
+    padding-top: 4px;
+    margin: auto;
+}
+</style>
+<div class="ingress">
+  <p>
+Her ligger kompendiet <i>Kontrastive Syntax Norwegisch–Deutsch</i>, "Ergebnis einer gründlichen Überarbeitung der erstmals 1997 erschienenen, seither mehrmals leicht geänderten deutschen Fassung der norwegischen Erstfassung Norsk–tysk syntaks von 1995". Det blir brukt i emnene TYSK1104 Syntaks og TYSK2100 Semantikk og oversettelse.</p></div>
