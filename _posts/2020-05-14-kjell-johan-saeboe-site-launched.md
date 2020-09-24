@@ -4,6 +4,32 @@ title: "Die Konnotation, die dem IDS unter den Radar rutschte"
 date: 2020-05-14
 ---
 
+<style>
+figure {
+    border: 1px solid none;
+    padding-left: none;
+    padding-right: 25px;
+    padding-bottom: none;
+    padding-top: 4px;
+    margin: auto;
+	text-align: center;
+}
+figcaption {
+    color: #333;
+    text-align: center;
+    font-family: Optima, Candara, Calibri, Arial, sans-serif;
+    font-size: .8em;
+}	
+
+.left {
+    float: left;
+    width: 48%;
+}
+.right {
+    margin-left: 52%;
+}
+</style>
+
 <div class="ingress"><p>Ein Beitrag vom <a href="https://www1.ids-mannheim.de/fileadmin/aktuell/Coronakrise/moehrs_wirtschaft.pdf">17. August 2020</a> in der Reihe <a href="https://www1.ids-mannheim.de/sprache-in-der-coronakrise/">Aktuelle Stellungnahmen zur Sprache in der Coronakrise</a> des Leibniz-Instituts für Deutsche Sprache (IDS) nimmt eine Neuprägung des Wortes <i>Wumms</i> durch Finanzminister Olaf Schulz unter die Lupe:</p> <ul><li>"Wir wollen mit Wumms aus der Krise kommen!"</li></ul> <p>Dabei schlüpft der Autorin, wie dem <a href="https://www.owid.de/docs/neo/listen/corona.jsp">Neologismenwörterbuch zum Coronawortschatz</a>, das dem Wort <i>Wumms</i> einen Eintrag widmet, ein wesentlicher semantischer Oberton durch die Lappen.</p></div>
   <h3>Wumms 2000–2019 und 2020</h3>
 <p>Der <a href="https://www.owid.de/docs/neo/listen/corona.jsp#wumms">Coronawortschatzneologismenwörterbucheintrag</a>:</p>
@@ -21,7 +47,7 @@ date: 2020-05-14
   <h3>Kraft, Gegenkraft und V-förmiger Aufschwung</h3>
   <p>Dieser Puzzleteil ist eine zusätzliche Konnotation des Lautwortes, wie sie besonders in der Comicsprache hervortritt: WUMM(S). Prototypisch wird es dort eingesetzt, wo der kräftige Aufprall eine Gegenkraft erzeugt, die sich in einen Rückprall umsetzt. Auf den durch die COVID-19-Pandemie verursachten Wirtschaftsabschwung übertragen wird das heißen: wir wollen mit einem Aufprall, der die Wirtschaft gleich wieder in die Höhe schnellen lässt, durch die Krise kommen. So hat der Finanzminister das Bild der sogenannten V-förmigen Wirtschaftsaufschwungs heraufbeschworen – wie es im Comicausschnitt geradezu greifbar wird.
   </p>
-<p><img style="height:340px; border-bottom: #4c0b5f 1pt solid; border-left: #4c0b5f 1pt solid; border-top: #4c0b5f 1pt solid; border-right: #4c0b5f 1pt solid" src="/pics/cruz.jpg" /></a></figure></div>
+<div><figure><img style="height:250px;" src="/pics/wumms.jpg"><figcaption>Aus Carl Barks: Wudu-Hudu-Zauber (1950)</figcaption></figure></div>
   
-  </p>
+ 
 
