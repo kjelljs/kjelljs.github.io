@@ -17,14 +17,9 @@ date: 2020-05-14
   <ul><li style="line-height: 1.4em">Grundsätzlich ist das Wort von der Interjektion <i>wumm</i> abzuleiten, die lautmalerisch "für einen plötzlichen, dumpfen Laut oder Knall, Aufprall" steht… dieser Wortursprung [wird] dann in einer übertragenen Verwendung im Wort <i>Wumms</i> gebraucht. In allen Verwendungen ist die (Aufprall-)Kraft aus der Interjektion enthalten. Im Rahmen der Corona-Krise hat das Wort eine Bedeutungsnuance hinzubekommen…  
   </li></ul>
   <p>Worin diese besteht? "Ein <i>Wumms</i> ist das, was die Wirtschaft, die Gesellschaft erhofft" – vergleiche den Coronawortschatzneologismenwörterbucheintrag: "…die (erhoffte) Wirkung der Gesamtheit politischer Aktivitäten und Maßnahmen, mit denen…wirtschaftlich und gesamtgesellschaftlich gegen die Auswirkungen der COVID-19-Pandemie vorgegangen wird".
-  Da fragt sich aber, ob nicht ein Puzzleteil noch fehlt, um den vom Finanzminister erzielten und erreichten Effekt zu erfassen… </p>
-  <h3>Lautwort, Gegenkraft und V-förmiger Aufschwung</h3>
-  <p>Tatsächlich geht <i>Wumms</i> in der gesprochenen und geschriebenen Sprache erstlinig auf ein Lautwort das Comicslautwort WUMM(S) zurück. 
-  </p>
-  Aufprall erzeugt einen Rückprall
-  
-  geradezu zum Greifen verständlich
-  <p>De mener altså at finansministeren i Tyskland har begynt å bruke ordet Wumms på (nok) en ny måte – men ordet har helt siden årtusenskiftet vunnet terreng i en metaforisk bruk med denotasjonen '(eksplosiv) styrke', for eksempel om en atlet, om en matrett, om et rockealbum, om et slagord, som alle kan ha mye eller en skikkelig Wumms. Opphavet er lydordet WUMM, mye brukt i tegneserier for å gjengi smellet fra en kraftig kollisjon, som når noe tungt deiser i bakken. Det som kanskje er særskilt interessant her, er at det kan virke som at finansministeren, når han optimistisk erklærer at vi skal komme ut av Coronakrisen mit Wumms, utnytter en konnotasjon (som IDS ikke beskriver) om en motkraft utløst av sammenstøtet og maner fram et bilde av et såkalt V-formet oppsving – altså at økonomien spretter opp igjen. Noe som vel ikke helt har slått til.
+  Da fragt sich aber, ob nicht ein Puzzleteil noch fehlt, um den vom Finanzminister erzielten und erreichten Effekt voll zu erfassen… </p>
+  <h3>Kraft, Gegenkraft und V-förmiger Aufschwung</h3>
+  <p>Dieser Puzzleteil ist eine zusätzliche Konnotation des Lautwortes, wie sie besonders in der Comicsprache hervortritt: WUMM(S). Prototypisch wird es dort eingesetzt, wo der kräftige Aufprall eine Gegenkraft erzeugt, die sich in einen Rückprall umsetzt. Auf den durch die COVID-19-Pandemie verursachten Wirtschaftsabschwung übertragen wird das heißen: wir wollen mit einem Aufprall, der die Wirtschaft gleich wieder in die Höhe schnellen lässt, durch die Krise kommen. So hat der Finanzminister das Bild der sogenannten V-förmigen Wirtschaftsaufschwungs heraufbeschworen – wie es im Comicausschnitt geradezu greifbar wird.
   </p>
 <p>
   </p>
