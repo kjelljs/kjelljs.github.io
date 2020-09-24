@@ -21,6 +21,7 @@ date: 2020-05-14
   <h3>Kraft, Gegenkraft und V-förmiger Aufschwung</h3>
   <p>Dieser Puzzleteil ist eine zusätzliche Konnotation des Lautwortes, wie sie besonders in der Comicsprache hervortritt: WUMM(S). Prototypisch wird es dort eingesetzt, wo der kräftige Aufprall eine Gegenkraft erzeugt, die sich in einen Rückprall umsetzt. Auf den durch die COVID-19-Pandemie verursachten Wirtschaftsabschwung übertragen wird das heißen: wir wollen mit einem Aufprall, der die Wirtschaft gleich wieder in die Höhe schnellen lässt, durch die Krise kommen. So hat der Finanzminister das Bild der sogenannten V-förmigen Wirtschaftsaufschwungs heraufbeschworen – wie es im Comicausschnitt geradezu greifbar wird.
   </p>
-<p>
+<p><img style="height:340px; border-bottom: #4c0b5f 1pt solid; border-left: #4c0b5f 1pt solid; border-top: #4c0b5f 1pt solid; border-right: #4c0b5f 1pt solid" src="/pics/cruz.jpg" /></a></figure></div>
+  
   </p>
 
