@@ -2,5 +2,5 @@ name: Kjell Johan S
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 url: "https://kjelljs.github.io"
-gems:
+plugins:
   - jekyll-sitemap
