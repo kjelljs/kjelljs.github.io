@@ -140,6 +140,13 @@ table {
     padding-top: 4px;
     margin: auto;
 }
+.left {
+    float: left;
+    width: 48%;
+}
+.right {
+    margin-left: 52%;
+}
 ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     list-style: none;
