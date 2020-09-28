@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <objectbank ident="g60e442f36311eddfc3858113e8ce26de">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>bank_title</fieldlabel>
+        <fieldentry>Ikke lagrede spørsmål</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <item ident="g8d4fc53252566c8a07aa030d08f1673f" title="Case 10">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>5309,1388,2671,8290,3158,2294</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Jeg har alltid ønsket meg piercing i tunga, men får ikke lov av kjæresten.&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="5309">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="1388">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="2671">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="8290">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="3158">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="2294">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">2294</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g85eaa28bbb0bd8180bda29002bd9f70e" title="Case 11">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>6844,2140,6094,2595,9027,5477</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Og Pelle fikk et melkespann og Kari fikk et krus&lt;br&gt;Og Mari fikk en kaffekopp og Kjell et kremmerhus&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="6844">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="2140">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6094">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="2595">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="9027">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="5477">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">2595</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g06711ba51c216e45ee413ca37364f83f" title="Case 12">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>3898,1143,3581,8762,1298,645</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Emily vel å ikkje ta meir enn ho treng, men det tyder ikkje at ho ikkje kan.&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="3898">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="1143">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="3581">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="8762">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="1298">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="645">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">3898</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="gd291b539da01924b733e5559f7c0587e" title="Case 3">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>9302,1029,1504,6036,816,764</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Brukerutstyr ble beslaglagt, men ikke narkotika.&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="9302">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="1029">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="1504">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6036">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="816">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="764">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">1504</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g61f9911409c03448d5476d7b2673dcf2" title="Case 4">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>9265,9090,2432,5868,7251,9388</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Ja, ja, berre dei unge les, så er det ikkje så farleg kva.&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="9265">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="9090">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="2432">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="5868">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="7251">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="9388">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">9265</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g980f0a95b847e0d36e5494ea1433a93d" title="Case 5">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>1571,3814,138,5768,7842,9697</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Hun må respektere han – og han henne.&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="1571">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="3814">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="138">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="5768">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="7842">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="9697">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">5768</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g1ca16999b7f4569541d508ecdbce7938" title="Case 6">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>6283,4879,6083,8104,1516,3902</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Jeg mener at bf skal betale halvparten, men han nekter, …&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="6283">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="4879">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6083">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="8104">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="1516">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="3902">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">3902</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g08455c132c130ab367790fcac5079e15" title="Case 7">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>734,6677,8733,4690,3815,9271</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Kunne også tenkt meg tatovering, men vet ikke hvor og hva.&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="734">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6677">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="8733">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="4690">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="3815">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="9271">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">3815</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g97da6827a03f4332c787a884bca03ab0" title="Case 8">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>3889,6329,6559,2540,7167,7201</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Ta ikke det grønne, ta ikke det røde; men ta det blå, som vi har satt tre kors oppå!&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="3889">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6329">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6559">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="2540">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="7167">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="7201">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">6329</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g216a706a26ecce4426f2a9a87b0a5800" title="Case 9">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>5240,2216,1518,3315,115,3406</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Mat og øl vart ofra, og buskap med.&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="5240">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="2216">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="1518">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="3315">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="115">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="3406">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">1518</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g42c19be468dd6c15aa629ec6dc751532" title="Spørsmål">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>2442,6209,9789,2162,392,8695,945</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Det varierer litt, men den minste er 170x150x125cm.&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="2442">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6209">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="9789">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="2162">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="392">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="8695">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="945">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">2442</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="gff5157a5d8459fa664ae9dda62c08889" title="Spørsmål">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>1.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>6451,780,9073,9433,6192,9869</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Jeg tar 45 studiepoeng dette semesteret. Ikke fordi jeg vil. Ikke fordi jeg er en streber. Men fordi jeg må.&lt;/p&gt;&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="6451">
+              <material>
+                <mattext texttype="text/plain">Predicate ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="780">
+              <material>
+                <mattext texttype="text/plain">Nominal ellipsis</mattext>
+              </material>
+            </response_label>
+            <response_label ident="9073">
+              <material>
+                <mattext texttype="text/plain">Stripping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="9433">
+              <material>
+                <mattext texttype="text/plain">Gapping</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6192">
+              <material>
+                <mattext texttype="text/plain">Sluicing</mattext>
+              </material>
+            </response_label>
+            <response_label ident="9869">
+              <material>
+                <mattext texttype="text/plain">Null complement anaphora</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">6451</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+  </objectbank>
+</questestinterop>
