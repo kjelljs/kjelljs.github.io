@@ -150,6 +150,7 @@ table {
 ul {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     list-style: none;
+    line-height: 1.4em;
 }
 ol {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
