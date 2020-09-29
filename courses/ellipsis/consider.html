@@ -5,11 +5,22 @@ title: "Sort these examples"
 ---
 
 <style>
-li:before {
+  ol {
+  counter-reset: item;
+  margin-left: 0;
+  padding-left: 0;
+}
+li {
+  display: block;
+  margin-bottom: .5em;
+  margin-left: 2em;
+}
+li::before {
+  display: inline-block;
   content: counter(item) ") ";
   counter-increment: item;
-  display: marker;
   width: 2em;
+  margin-left: -2em;
 }
 </style>
 
