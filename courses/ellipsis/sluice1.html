@@ -1,18 +1,30 @@
+<style>
+  ol {
+  margin-left: 0;
+  padding-left: 0;
+}
+ol li {
+  display: block;
+  margin-bottom: .5em;
+  margin-left: 2em;
+}
+ol li::before {
+  display: inline-block;
+  content: "(" counter(item) ") ";
+  counter-increment: item;
+  width: 2em;
+  margin-left: -2em;
+}
+</style>
 
-
-
-The following examples may seem slightly odd:
-
-(1)  We have to find someone who knows Arabic but we haven't been told who yet.
-
-(2)  Somebody always complains about the sound quality. You'll know who soon enough.
-
-(3)  You may have a beer or a glass of wine with the evening meal. I don't remember which though.
-
-How is that? 
-
-Now the following example may seem to break ranks with (1)–(3) in allowing two readings:
-
-(4)  Everybody ordered a starter, but the waitress forgot what.
-
-Do you agree? How could the “new” reading be characterized?
+<div class="ingress"><p>Sluices on indefinites may seem to require wide scope for those – but then again, there is a confound…</p></div>
+<p>The following examples may seem slightly odd:</p>
+<ol style="counter-reset: item 0"><li>We have to find someone who knows Arabic but we haven't been told who yet.</li>
+  <li>Somebody always complains about the sound quality. You'll know who soon enough.
+</li>
+<li>You may have a beer or a glass of wine with the evening meal. I don't remember which though.</li>
+</ol>
+<p>How is that?</p> 
+<p>Now the following example may seem to break ranks with (1)–(3) in allowing two readings:</p>
+<ol style="counter-reset: item 3"><li>Everybody ordered a starter, but the waitress forgot what.</li></ol>
+<p>Do you agree? How could the "new" reading be characterized? (Keyword: 'pair-list')</p>
