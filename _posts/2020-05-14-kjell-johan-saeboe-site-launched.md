@@ -46,7 +46,7 @@ figcaption {
   Da fragt sich aber, ob nicht ein Puzzleteil noch fehlt, um den vom Finanzminister erzielten und erreichten Effekt voll zu erfassen… </p>
   <h3>Kraft, Gegenkraft und V-förmiger Aufschwung</h3>
   <p>Dieser Puzzleteil ist eine zusätzliche Konnotation des Lautwortes, wie sie besonders in der Comicsprache hervortritt: WUMM(S). Prototypisch wird es dort eingesetzt, wo der kräftige Aufprall eine Gegenkraft erzeugt, die sich in einen Rückprall umsetzt. Auf den durch die COVID-19-Pandemie verursachten Wirtschaftsabschwung übertragen wird das heißen: wir wollen mit einem Aufprall, der die Wirtschaft gleich wieder in die Höhe schnellen lässt, durch die Krise kommen. So hat der Finanzminister das Bild des sogenannten V-förmigen Wirtschaftsaufschwungs heraufbeschworen – wie es im Comicausschnitt geradezu graphisch greifbar wird:
-  </p></br>
+  </p><br>
 <div><figure><img style="height:250px;" src="/pics/wumms.jpg"><figcaption>Aus Carl Barks: Wudu-Hudu-Zauber (1949)</figcaption></figure></div>
 <p>&nbsp;</p>
   
