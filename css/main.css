@@ -1,5 +1,6 @@
 #main {
   margin: 0 8% 0 232px; /* Same as the width of the sidenav */
+  background: linear-gradient(to right, #a0a0a0, 0.1%, white);
 }
 body {
      margin: 60px auto;
