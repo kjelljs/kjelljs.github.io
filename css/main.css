@@ -4,7 +4,7 @@
 body {
      margin: 60px auto;
      max-width: 1500px;
-	background: linear-gradient(to right, white 194px, #ccc, 198px, white, 206px, white);
+	background: linear-gradient(to right, white 193px, #bbb, 200px, white, 210px, white);
 }
 nav {
     margin-left: 232px;
