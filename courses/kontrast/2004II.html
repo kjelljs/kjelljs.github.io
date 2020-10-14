@@ -3,6 +3,25 @@ layout: post2
 title: "Hausaufgabe TYSK2102 2004 II"
 ---
 
+<style>
+  ol {
+  margin-left: 0;
+  padding-left: 0;
+}
+ol li {
+  display: block;
+  margin-bottom: .5em;
+  margin-left: 2em;
+}
+ol li::before {
+  display: inline-block;
+  content: "(" counter(item) ") ";
+  counter-increment: item;
+  width: 2em;
+  margin-left: -2em;
+}
+</style>
+
 <div class="ingress"><p>Gegeben seien 8 deutsch-norwegische bzw. norwegisch-deutsche Satzpaare (DO = deutsches Original, NO = norwegisches Original, DÜ = deutsche Übersetzung, NÜ = norwegische Übersetzung).</p><p> 
 In jedem Paar weist der deutsche Satz mindestens ein (Voll-)Verb weniger auf als der entsprechende norwegische Satz. In den meisten Fällen entspricht im deutschen Satz dem ausgesparten Verb ein Adjektiv (bzw. Partizip) oder Substantiv.
 Beschreiben Sie die Konstruktionen, wo dies der Fall ist.</p><p>
@@ -11,6 +30,8 @@ Gehen Sie darauf ein, inwieweit an den Stellen in den beiden deutschen Übersetz
 
 <div style="background-color:#f0f0f0;"></br>
 <ol style="margin-right:25px;">
+  <ol style="counter-reset: item 0">
+    <div class="left">
   
 (1) a. In enger Verbindung mit dem für die Studenten zuständigen Universitätspsychiater, der eine volle Psychoanalyse ebenfalls für erforderlich, aber aus äußeren Gründen für undurchführbar hält, beginnen wir zunächst mit der Selbstanalyse sowie unterstützend mit pharmakopsychiatrischer Behandlung. (DO)
 
