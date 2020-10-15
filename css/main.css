@@ -119,7 +119,7 @@ p {
     font-size: 1em;
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     line-height: 1.4em;
-    color: #fff;
+    color: linear-gradient(to right, #333, white);
 }
 .hidp:hover {
   color: #333;
