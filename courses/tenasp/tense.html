@@ -12,8 +12,6 @@ This can be modeled in various ways. In the simplest picture, the tense maps the
 <p>Arguably the simplest answer is: filter out the non-past times, so only the past times remain. But pastness is a relative concept. It depends on – normally – the time of utterance.</p>
 
 <p>The time of utterance is often seen as a parameter of meaning in the sense that it figures as a fixed argument of the interpretation function, an index on which semantic values depend:</p>
- 
-λEλt &#398;e E(e) ∧ t ⊑ τ(e)
 
 <p>(1) &nbsp;<span style="margin-right: -2pt">[</span>[&#183;<span style="margin-right: -2pt">]</span>] = …</p>
 
@@ -26,7 +24,7 @@ This can be modeled in various ways. In the simplest picture, the tense maps the
 <p>(3) &nbsp;<span style="margin-right: -2pt">[</span>[[<sub>TP</sub> PT [<sub>AspP</sub> PF [<sub>VoiceP</sub> she [<sub>VP</sub> write her dissertation ]]]<span style="margin-right: -2pt">]</span>]<sup>t<sub>0</sub></sup> = <br />
 <span style="color: rgb(255, 255, 255);">(3) &nbsp;</span>λt t &lt; t<sub>0</sub> ∩ λt &#398;e shewriteherdiss(e) ∧ τ(e) ⊑ t =
  <br />
-<span style="color: rgb(255, 255, 255);">(3) &nbsp;</span>λt [t &lt; t<sub>0</sub> ∧ &#398;e shewriteherdiss(e) ∧ τ(e) ⊑ t]
+<span style="color: rgb(255, 255, 255);">(3) &nbsp;</span>λt [ t &lt; t<sub>0</sub> ∧ &#398;e shewriteherdiss(e) ∧ τ(e) ⊑ t ]
  </p>
 
 <p>This is still just a set of times, and ultimately, the sentence needs to denote a truth value. This last step could be accomplished by a temporal adverbial.</p>
@@ -43,10 +41,9 @@ This can be modeled in various ways. In the simplest picture, the tense maps the
 
 <p>the characteristic function of that set of times can apply to this time by the composition principle Functional Application, to produce</p>
 
-<p>– the truth value 1 (true) if the day prior to the day containing t<sub>0</sub> belongs to the set of times<br />
-<span style="color: rgb(255, 255, 255);">–&nbsp;</span>before t<sub>0</sub> which include the runtime of an event of cleaning the stove with me as its agent,&nbsp;</p>
-
-<p>– the truth value 0 (false) otherwise.</p>
+<ul><li>the truth value 1 (true) if the day prior to the day containing t<sub>0</sub> belongs to the set of times before t<sub>0</sub> which include the runtime of an event of cleaning the stove with me as its agent,</li>
+<li>
+ the truth value 0 (false) otherwise.</li></ul>
 
 <p>We see that in connection with an adverb&nbsp;like "yesterday", the Past is redundant: the sentence is true iff the day prior to the day of t<sub>0</sub> includes the runtime of an event of cleaning the stove with me as its agent.</p>
 
@@ -54,13 +51,13 @@ This can be modeled in various ways. In the simplest picture, the tense maps the
 
 <p>There are&nbsp;alternative ways to analyze simple tenses like Past, temporal adverbials and their interaction. One is to treat the tense as a free variable over times, assigned a value by the contextual variable assignment, with a presupposition of (say) pastness:</p>
 
-<p>(6) &nbsp;<span class="math-tex">\([\![\,{\rm PT}_i\,]\!]\)</span><span class="math-tex">\(^{t_0,g} = \)</span>&nbsp;&nbsp;<span class="math-tex">\(g(i)\)</span>&nbsp;if&nbsp;<span class="math-tex">\(g(i) &lt; t_0\)</span>, undefined otherwise</p>
+<p>(6) &nbsp;<span style="margin-right: -2pt">[</span>[PT<sub><i>i</i></sub><span style="margin-right: -2pt">]</span>]<sup>t<sub>0</sub>,g</sup> = g(<i>i</i>) if g(<i>i</i>) &lt; t<ub>0</sub>, undefined otherwise</p>
 
 <p>In this picture, the tense will be the last piece put in place in the composition of the sentence, after a positional temporal adverbial like "yesterday", which must denote a set of times.</p>
 
 <p>This approach is primarily motivated by sentences without any positional temporal adverbial, which are felt to refer anaphorically to a contextually determined time.</p>
 
-<h2 style="margin-top: 30px">Tense as a definite/indefinite&nbsp;‘article’</h2>
+<h2 style="margin-top: 30px">Tense as a definite/indefinite&nbsp;'article'</h2>
 
 <p>Another way is to treat the tense and a possibly covert&nbsp;temporal adverbial as one&nbsp;constituent, a quantifier over times. Then it is possible to unite an existential with a referential theory.</p>
 
