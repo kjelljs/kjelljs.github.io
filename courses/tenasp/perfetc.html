@@ -3,9 +3,82 @@ layout: post3
 title: "Complex tense, relative tense, SOT"
 ---
 <div class="ingress"><p>
-Some tenses or uses of tenses are not so simple. A present or past perfect, for example, seems to involve two tenses, (i) a present or past and (ii) a past; on the other hand, a simple past in a language like Russian can receive a relative interpretation, as if it were complex.</p></div>
+Some tenses or uses of tenses are not so simple. A present or past perfect, for example, seems to involve two tenses, (i) a present or past and (ii) a past.</p><p>On the other hand, a simple past in a language like Russian can receive a relative interpretation, as if it were complex.</p></div>
 <p>A reminiscent contrast is observed in subordinate clauses, between Sequence-of-tense and Non-Sequence-of-Tense.</p>
 <p>Standard ways to model these phenomena include shifting the utterance time and assuming that tenses under tenses can be uninterpretable.</p>
 <p>While a language like English only has non-finite (participial) relative tenses, a language like Russian has finite (or covert) relative tenses. And while a language like English has tense concord, a language like Russian does not. And these two pairs of facts are connected.</p>
 <h2 style="margin-top: 30px">Relative tense</h2>
 <p>Consider the following Russian sentence, which is ambiguous (from Grønn 2004: 181):</p>
+<p>(1) &nbsp;Kogda ja vernulas’, bandity ubili Vanju. / when I returned<sup>pf</sup> bandits killed<sup>pf</sup> Vanju</p>
+
+<p><span style="color: rgb(255, 255, 255);">(1) &nbsp;</span>‘When I returned, the gangsters (had) killed Vanja.'</p>
+
+<p>One way to resolve this is to say that the form <em>ubili</em> is either an <strong>absolute</strong> or a <strong>relative</strong> past.<br />
+Let us assume a simple definition of&nbsp;absolute past and add a definition of relative past:</p>
+
+<p>(2) &nbsp;<span class="math-tex">\([\![\,{\rm PT}_{\rm absolute}\,]\!]\)</span><span class="math-tex">\(^{{t_0},{\,t_1}} = \)</span>&nbsp;<span class="math-tex">\(\lambda T_{(it)} \)</span>&nbsp;a&nbsp;<span class="math-tex">\(t\)</span>&nbsp;before <span class="math-tex">\(t_0\)</span>&nbsp;is a <span class="math-tex">\(T \)</span></p>
+
+<p>(3) &nbsp;<span class="math-tex">\([\![\,{\rm PT}_{\rm relative1\,}]\!]\)</span><span class="math-tex">\(^{{t_0},{\,t_1}} = \)</span>&nbsp;<span class="math-tex">\(\lambda T_{(it)} \)</span>&nbsp;a&nbsp;<span class="math-tex">\(t\)</span>&nbsp;before <span class="math-tex">\(t_1 \)</span>&nbsp;is a <span class="math-tex">\(T\)</span></p>
+
+<p>Here both <span class="math-tex">\(t_0\)</span>&nbsp;and&nbsp; <span class="math-tex">\(t_1 \)</span>&nbsp;basically represent the time of utterance, but while&nbsp;<span class="math-tex">\(t_0\)</span>&nbsp;is unshiftable, <span class="math-tex">\(t_1\)</span> can be&nbsp;shifted from&nbsp;<span class="math-tex">\(t_0\)</span>&nbsp;to another&nbsp;time by a temporal clause like <em>kogda ja vernulas’</em> ‘when I returned’ or another time adverbial.&nbsp;When the tense is relative, this time&nbsp;‘acts as’ the time of utterance. The time relative to which the past is past is shifted – here backwards.</p>
+
+<p>The <em>when</em> clause will compose semantically with the TP by Intensional Functional Application, the 3rd composition principle:&nbsp;<span class="math-tex">\([\![\,{\rm when \,I \,returned}\,]\!]\)</span><span class="math-tex">\(^{{t_0},{\,t_1}}\)</span>&nbsp;will not apply to the extension&nbsp;<span class="math-tex">\([\![\,{\rm PT}_{\rm relative1}\,[_{{\rm AspP}} {\rm \,the\,gangsters\,kill\,Vanja} ]]\!]\)</span><span class="math-tex">\(^{{t_0},{\,t_1}}\)</span>&nbsp;but to the intension&nbsp;<span class="math-tex">\([\![\,{\rm PT}_{\rm relative1}\,[_{{\rm AspP}} {\rm \,the\,gangsters\,kill\,Vanja} ]]\!]\)</span><span class="math-tex">\(^{t_0}\)</span>, which is:<br />
+<span class="math-tex">\(\lambda t_1 \, \)</span>a&nbsp;<span class="math-tex">\(t\)</span>&nbsp;before&nbsp;<span class="math-tex">\(t_1\)</span>&nbsp;includes an event of the gangsters killing Vanja.</p>
+
+<p>Definitions like (2) and (3) would both be relevant&nbsp;for the past perfect in a language like English. Consider (4):</p>
+
+<p>(4) &nbsp;When I returned, the gangsters had killed Vanja.</p>
+
+<p>One would say that there are two past tenses in the main clause, a relative past marked by the past participle form and an absolute past marked by the finite past form. The output from the former&nbsp;is to serve as input for the latter, mediated by an adverbial like the <em>when</em> clause.&nbsp;</p>
+
+<p>But for modeling embedded relative tenses, we may need something slightly different&nbsp;…</p>
+
+<h3>Embedded tense</h3>
+
+<p>In cases like the Russian sentence (5), the time relative to which the embedded past is past seems to coincide with the time of the event described in the matrix:</p>
+
+<p>(5) &nbsp;Ona sprosila, spal li on. / she asked<sup>pf </sup>slept<sup>ipf</sup> whether he</p>
+
+<p><span style="color: rgb(255, 255, 255);">(6) &nbsp;</span>‘She asked if he had been sleeping.’</p>
+
+<p>This can be modeled by letting the relative tense depend on a temporal pro-form, <span class="math-tex">\(t_n\)</span>&nbsp;say,&nbsp;a variable controlled or bound by the matrix tense, as a sister to the relative tense in LF.</p>
+
+<p>(6) &nbsp;<span class="math-tex">\([\![\,{\rm PT}_{\rm relative2\,}]\!]\)</span><span class="math-tex">\(^{{t_0},{\,t_1}} = \)</span>&nbsp;<span class="math-tex">\(\lambda t_{(i)}\,\lambda T_{(it)} \)</span>&nbsp;<span class="math-tex">\(t\)</span>&nbsp;is after a <span class="math-tex">\(T \)</span></p>
+
+<p>There is a corresponding relative future tense too.</p>
+
+<p>See Grønn (2015) and Grønn and von Stechow (2016) for a way to unify absolute tenses and&nbsp;different uses of relative tenses in a general framework.</p>
+
+<p>Now what about the use of the past perfect in a sentence like (7):</p>
+
+<p>(7) &nbsp;She asked if he had been sleeping.</p>
+
+<p>It is customary to regard the finite past in such complement clauses as a pure concord thing, an uninterpretable <strong>zero tense</strong>, in a more general picture of SOT (see, e.g., <a href="https://www.journals.uio.no/index.php/osla/article/view/103/88">Grønn and&nbsp;von Stechow 2010</a>). Then the non-finite, relative past is all there is to be interpreted in the complement clause in (7), and the definition (6) can be used here too.</p>
+
+<p>The zero tense can be the only tense:</p>
+
+<p>(8) &nbsp;She told me she was pregnant.</p>
+
+<p>To express this content, Russian must use a (relative) present in the complement clause.&nbsp;</p>
+
+<p>An alternative would be to treat the past tense not as a zero tense but as an absolute past. Clear counterevidence to that is provided by these Norwegian examples:</p>
+
+<p>(9) a. &nbsp;og jeg som hadde håpet at du var gravid nå</p>
+
+<p><span style="color:#ffffff;">(9) </span>b. &nbsp;Scooter ringte og spurte om du kom i studio i morgen</p>
+
+<p><span style="color:#ffffff;">(9) </span>c. &nbsp;Han ba meg sørge for at du kom i kveld</p>
+
+<p>The systematic differences between an SOT language like English and a non-SOT language like Russian can be summed up thus: English has zero tense but lacks finite relative tense, Russian lacks zero tense but has finite relative tense.</p>
+
+<h3>Present perfect versus simple past</h3>
+
+<p>There is a division of labor between the simple past and the present perfect in a language like English regarding the position&nbsp;of the&nbsp;time preceding the time of utterance: the former requires it to be restricted to a&nbsp;frame&nbsp;with a right bound, while the latter rejects such a restriction.</p>
+
+<p>(10)&nbsp; ??Bohr has met Einstein in Berlin in 1920.</p>
+
+<p>This constraint is known as the <strong>present perfect puzzle</strong>. Various ways to account for it have been proposed; see Grønn and von Stechow&nbsp;(t.a.).</p>
+
+<p>Here we&nbsp;may&nbsp;just note, first, that the present perfect can be analyzed as an absolute present over a relative past, and that an absolute past tends to be definite (one uniquely familiar past time) while a relative past tends to be indefinite (some past&nbsp;time); second, that there seems to be a relevant&nbsp;element of competition between the simple past and the present perfect, absent&nbsp;when it comes to&nbsp;the past perfect, which is compatible with a definite relative past time:</p>
+
+<p>(11)&nbsp; Bohr had first met Einstein in Berlin in 1920.</p>
