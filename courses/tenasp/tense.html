@@ -1,0 +1,68 @@
+---
+layout: post3
+title: "Tense and time adverbials: Basics"
+---
+<div class="ingress"><p>A tense like the simple past relates three times or sets of times to each other: the time of utterance, the times provided by the AspP, and the time(s) provided by a temporal adverbial, if present. Its main contribution is the constraint that the other times precede the time of utterance.</p><p>
+This can be modeled in various ways. In the simplest picture, the tense maps the utterance time to the set of times preceding it; this set can intersect with the set denoted by AspP, and the time denoted by an overt or covert adverbial can round off the resulting set of times.</p></div>
+<h2 style="margin-top: 30px">Tense</h2>
+<p>Recall that "write her dissertation" – represented as [<sub>AspP</sub> PF [<sub>vP</sub>&nbsp;she write her dissertation ]] – denotes the set of times that include (the runtime of)&nbsp;an event&nbsp;of writing her dissertation, and that "be writing her dissertation" – represented as [<sub>AspP</sub> IPF [<sub>vP</sub>&nbsp;she write her dissertation ]] – denotes the set of times included in (the runtime of) an event of writing her dissertation.</p>
+
+<p>Next comes Tense, for example, Past. What is Past supposed to do with that set of times?</p>
+
+<p>Arguably the simplest answer is: filter out the non-past times, so only the past times remain. But pastness is a relative concept. It depends on – normally – the time of utterance.</p>
+
+<p>The time of utterance is often seen as a parameter of meaning in the sense that it figures as a fixed argument of the interpretation function, an index on which semantic values depend:</p>
+
+<p>(1) &nbsp;<span style="margin-right: -2pt">[</span>[&#183;<span style="margin-right: -2pt">]</span>]<sup>t<sub>0</sub></sup> = …</p>
+
+<p>Now the simplest way for the Past to filter out non-past times is for it to denote the set of all past times:</p>
+
+<p>(2) &nbsp;<span style="margin-right: -2pt">[</span>[PT<span style="margin-right: -2pt">]</span>]<sup>t<sub>0</sub></sup> = λt t &lt; t<sub>0</sub></p>
+
+<p>Because then this set can – by the composition principle Intersection&nbsp;(a generalized Predicate Modification) – intersect with the set of times coming from AspP:</p>
+
+<p>(3) &nbsp;<span style="margin-right: -2pt">[</span>[[<sub>TP</sub> PT [<sub>AspP</sub> PF [<sub>VoiceP</sub> she [<sub>VP</sub> write her dissertation ]]]<span style="margin-right: -2pt">]</span>]<sup>t<sub>0</sub></sup> = <br />
+<span style="color: rgb(255, 255, 255);">(3) &nbsp;</span>λt t &lt; t<sub>0</sub> ∩ λt &#398;e shewriteherdiss(e) ∧ τ(e) ⊑ t =
+ <br />
+<span style="color: rgb(255, 255, 255);">(3) &nbsp;</span>λt [ t &lt; t<sub>0</sub> ∧ &#398;e shewriteherdiss(e) ∧ τ(e) ⊑ t ]
+ </p>
+
+<p>This is still just a set of times, and ultimately, the sentence needs to denote a truth value. This last step could be accomplished by a temporal adverbial.</p>
+
+<h2 style="margin-top: 30px">Yesterday</h2>
+
+<p>Let us consider a type of event which could plausibly fit within a time frame like a day:</p>
+
+<p>(4) &nbsp;I cleaned the stove yesterday.</p>
+
+<p>If we assume that "I cleaned the stove" denotes the set of times t before t<sub>0</sub> which include the runtime of an event of cleaning the stove with me as its agent, and that the adverb "yesterday" simply denotes a time,</p>
+
+<p>(5) &nbsp;<span style="margin-right: -2pt">[</span>[ yesterday <span style="margin-right: -2pt">]</span>] = the day prior to the day containing t<sub>0</sub></p>
+
+<p>the characteristic function of that set of times can apply to this time by the composition principle Functional Application, to produce</p>
+
+<ul><li style="margin-bottom: 12px">(i) <span style="color: white">i</span>the truth value 1 (true) if the day prior to the day containing t<sub>0</sub> belongs to the set of times before t<sub>0</sub> which include the runtime of an event of cleaning the stove with me as its agent,</li>
+<li>(ii)
+ the truth value 0 (false) otherwise.</li></ul>
+
+<p>We see that in connection with an adverb&nbsp;like "yesterday", the Past is redundant: the sentence is true iff the day prior to the day of t<sub>0</sub> includes the runtime of an event of cleaning the stove with me as its agent.</p>
+
+<h2 style="margin-top: 30px">Referential past</h2>
+
+<p>There are&nbsp;alternative ways to analyze simple tenses like Past, temporal adverbials and their interaction. One is to treat the tense as a free variable over times, assigned a value by the contextual variable assignment, with a presupposition of (say) pastness:</p>
+
+<p>(6) &nbsp;<span style="margin-right: -2pt">[</span>[PT<span style="margin-left: -1pt; margin-right: 1pt"><sub><i>i</i></sub></span><span style="margin-right: -2pt">]</span>]<sup>t<sub>0</sub>,g</sup> = g(<i>i</i>) if g(<i>i</i>) &lt; t<sub>0</sub>, undefined otherwise</p>
+
+<p>In this picture, the tense will be the last piece put in place in the composition of the sentence, after a positional temporal adverbial like "yesterday", which must denote a set of times.</p>
+
+<p>This approach is primarily motivated by sentences without any positional temporal adverbial, which are felt to refer anaphorically to a contextually determined time.</p>
+
+<h2 style="margin-top: 30px">Tense as a definite/indefinite 'article'</h2>
+
+<p>Another way is to treat the tense and a possibly covert temporal adverbial as one constituent, a quantifier over times. Then it is possible to unite an existential with a referential theory.</p>
+
+<p>A positional temporal adverbial will denote a set of times – as suggested by <em>in June 2018</em> – and the tense can act as a determiner (with an implicit restriction of pastness), oscillating between an indefinite and a definite interpretation:</p>
+
+<p>(7)&nbsp; <span style="margin-right: -2pt">[</span>[PT<span style="margin-right: -2pt">]</span>]<sup>t<sub>0</sub></sup> = λT<sub>(it)</sub> λU<sub>(it)</sub> a or the T before t<sub>0</sub> is a U</p>
+
+<p>A definite interpretation will ensue if T is a singleton set. Note how a referential analysis can be emulated here, if T is a singleton set which is the contextually assigned value of a zero anaphoric time adverb.</p>
