@@ -18,9 +18,15 @@ figcaption {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     font-size: .8em;
 }	
+	  .zoom:hover {
+  -ms-transform: scale(3); /* IE 9 */
+  -webkit-transform: scale(3); /* Safari 3-8 */
+  transform: scale(3); 
+  transform-origin: 100% 0%;
+}
 </style>
 
-<div style="float:right;"><figure><img style="width:260px;" src="/pics/blondie1.jpg"></br><img style="width:260px;" src="/pics/blondie2.jpg"><figcaption>Artist: Chic Young</figcaption></figure></div>
+<div style="float:right;"><figure><div class="zoom"><img style="width:260px;" src="/pics/blondie1.jpg"></br><img style="width:260px;" src="/pics/blondie2.jpg"><figcaption>Artist: Chic Young</figcaption></div></figure></div>
 
 <h1>{{ page.title }}</h1>
 	
