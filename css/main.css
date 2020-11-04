@@ -76,9 +76,11 @@ rightsidebar {
 }
 
 #blogposts {
-    font-family: Optima, Candara, Calibri, Arial, sans-serif; line-height: 1.8em;
+    font-family: Optima, Candara, Calibri, Arial, sans-serif; line-height: 1.6em;
     color: #333;
     font-size: 1.2em;
+	padding-top: .2em;
+	padding-bottom: .1em;
 }
 #pubs {
     font-family: Optima, Candara, Calibri, Arial, sans-serif; line-height: 1.4em;
