@@ -4,4 +4,3 @@ permalink: /blog/:year/:month/:day/:title
 url: "https://kjelljs.github.io"
 plugins:
   - jekyll-sitemap
-  google-site-verification=H701AkHdWEGeaAdFkQSY0g6c8nHI4UCvDLlk_cnO7YM
