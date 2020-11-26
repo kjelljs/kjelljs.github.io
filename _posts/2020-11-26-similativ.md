@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fyllordet "åsånn" – og de fine fetterne"
+title: "Fyllordet og de fine fetterne"
 date: 2020-11-26
 comments: true
 ---
