@@ -37,7 +37,7 @@ figcaption {
 
 <div class="ingress"><p>Uttrykket "og sånn" (eller "ogsånn" eller "åsånn") havner høyt på listene over såkalte fyllord som folk irriterer seg over. Det er pussig at det har så dårlig rykte, for det er nært i slekt med – for eksempel – de to japanske suffiksene "-toka" og "-tari", som visst ingen irriterer seg over, og som det finnes raffinert teori om. Her er historien om det de betyr, disse tre: "-toka", "-tari" – og "åsånn".</p></div>
 <p>Fra Det norske akademis ordbok:</p>
-<ul><li style="line-height: 1.6em"><a href="https://naob.no/ordbok/sånn"><b>og sånn</b></br>
+<ul id="pubs"><li style="line-height: 1.6em"><a href="https://naob.no/ordbok/sånn"><b>og sånn</b><br/>
   BRUKT SOM UBESTEMT TILFØYELSE ISTEDENFOR NÆRMERE PRESIS UTFYLLING AV ET FOREGÅENDE LEDD</a></li></ul>
 <p>Og fra Riksmålsforbundets grammatikk:</p>
 <ul><li style="line-height: 1.4em"><a href="https://www.riksmalsforbundet.no/grammatikk/kapittel-8-pronomener/7/">"Som rent fyllord henges i visse former for muntlig språk <i>og sånn</i> på utsagn som i og for seg allerede er fullstendige: <i>Broren min er veldig kjip og sånn</i>. Utgangspunktet er sannsynligvis utsagn hvor en slags fortsettelse gir seg av seg selv i form av nærliggende assosiasjoner: <i>Pappaen min har mye penger og sånn</i>.</a></li></ul>
