@@ -49,9 +49,10 @@ figcaption {
 <ul><li style="line-height: 1.4em"><a href="https://www.riksmalsforbundet.no/grammatikk/kapittel-8-pronomener/7/">&laquo;Som rent fyllord henges i visse former for muntlig språk <i>og sånn</i> på utsagn som i og for seg allerede er fullstendige: <i>Broren min er veldig kjip og sånn</i>. Utgangspunktet er sannsynligvis utsagn hvor en slags fortsettelse gir seg av seg selv i form av nærliggende assosiasjoner: <i>Pappaen min har mye penger og sånn</i>.&raquo;</a></li></ul>
 <p>Her reflekteres folketeorien om "og sånn": Det er et uttrykk uten innhold. Og hvis det virkelig er slik at et uttrykk som brukes til stadighet, ikke betyr noe som helst, så er jo irritasjonen forståelig – da kan en like godt la være å bruke det, og ut fra et økonomiprinsipp <b>bør</b> en da også la det være, resonneres det.</p> <p>Men hadde det vært slik, så ville vi latt det være av oss selv. Og det er ikke slik heller. Folketeorien er langt unna sannheten.</p>
 <h3>Similativitet og mereologi</h3>
+<p>
 La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres hos Smith (2020), – og eksemplene kan hentes fra norsk. I form av attesterte ytringer med "og sånn".</p>
 <p>De to formativene har i bunn og grunn samme betydning, men litt ulik syntaks, og det de &laquo;føyes til&raquo; eller &laquo;henges på&raquo; (jfr. sitatene fra Det norske akademis ordbok og Riksmålsforbundets grammatikk), har ulik type: Det er nomenfraser, som betegner objektmengder ("-toka") eller verbfraser, som betegner eventmengder ("-tari"). De to tilfellene flyter sammen i "og sånn": Dette kan hektes på både nomenfraser og verbfraser:</p>
 
 <p>Og ettersom ordstillingen ikke får til å sondre mellom de to typene, vil vi få tvetydigheter – ja, mer enn det: Siden verbfraser kan tres oppå verbfraser, vil det kunne bli tre eller enda flere mulige tolkninger: Setning (3) for eksempel kan ha strukturen i (3-i), (3-ii) eller (3-iii).
   </p>
-  Hvis folketeorien stemmer, skulle ikke dette ha noe å si – null betydning er null betydning uansett nivå. Men at det har noe å si, kommer vi til.</p>
+  <p>Hvis folketeorien stemmer, skulle ikke dette ha noe å si – null betydning er null betydning uansett nivå. Men at det har noe å si, kommer vi til.</p>
