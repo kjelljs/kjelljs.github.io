@@ -53,6 +53,10 @@ figcaption {
 La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres hos Smith (2020), – og eksemplene kan hentes fra norsk. I form av attesterte ytringer med "og sånn".</p>
 <p>De to formativene har i bunn og grunn samme betydning, men litt ulik syntaks, og det de &laquo;føyes til&raquo; eller &laquo;henges på&raquo; (jfr. sitatene fra Det norske akademis ordbok og Riksmålsforbundets grammatikk), har ulik type: Det er nomenfraser, som betegner objektmengder ("-toka") eller verbfraser, som betegner eventmengder ("-tari"). De to tilfellene flyter sammen i "og sånn": Dette kan hektes på både nomenfraser og verbfraser:</p>
 
-<p>Og ettersom ordstillingen ikke får til å sondre mellom de to typene, vil vi få tvetydigheter – ja, mer enn det: Siden verbfraser kan tres oppå verbfraser, vil det kunne bli tre eller enda flere mulige tolkninger: Setning (3) for eksempel kan ha strukturen i (3-i), (3-ii) eller (3-iii).
+<p>Og ettersom ordstillingen ikke får til å sondre mellom de to typene, vil vi få tvetydigheter: Setning (3) for eksempel kan ha strukturen i (4) eller (5).
   </p>
+  <ol><li>Kunne tenke meg og bake brød og sånn, …</li>
+  <li>Kunne tenke meg og [bake brød][og sånn]</li>
+  <li>Kunne tenke meg og bake [brød][og sånn]</li></ol>
   <p>Hvis folketeorien stemmer, skulle ikke dette ha noe å si – null betydning er null betydning uansett nivå. Men at det har noe å si, kommer vi til.</p>
+  <p>
