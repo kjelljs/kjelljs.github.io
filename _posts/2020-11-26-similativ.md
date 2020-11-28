@@ -56,7 +56,7 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <li>Jeg forta meg å kle på meg og sånn.</li></ol>
 <p>Og ettersom ordstillingen ikke får til å sondre mellom de to typene, vil vi få tvetydigheter: Setning (3) for eksempel kan ha strukturen i (4) eller (5).
   </p>
-  <ol style="counter-reset: item 2; margin-top:-10px"><li>Kunne tenke meg og bake brød og sånn, …</li>
+  <ol style="counter-reset: item 2; margin-top:-10px"><li>Kunne tenke meg å bake brød og sånn, …</li>
   <li>Kunne tenke meg å [bake brød][og sånn]</li>
   <li>Kunne tenke meg å bake [brød][og sånn]</li></ol>
   <p>Hvis folketeorien stemmer, skulle ikke dette ha noe å si – null betydning er null betydning uansett nivå. Men at det har noe å si, kommer vi til.</p>
