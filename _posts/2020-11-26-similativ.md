@@ -66,7 +66,7 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <h2>Fra både-og til verken-eller</h2>
     <p>Når "-toka" eller "-tari" er i en kontekst under en såkalt monotont synkende operator, som for eksempel negasjon, skulle en ut fra det de ellers betyr, i stigende kontekster, vente en ganske svak tolkning: ikke(brød og rundstykker) = kanskje brød, kanskje rundstykker, kanskje ingenting, bare ikke begge deler. Men det en ofte kan observere, er at og-et slår om til et eller, slik at tolkningen blir sterkere: ikke(brød eller rundstykker) = ikke brød og ikke rundstykker heller, eller i det hele tatt noe som ligner.</p>
     <p>Dette er tilfelle i et annet språk med et lignende uttrykk som "-toka" også, nemlig persisk, der "og sånn" uttrykkes med en såkalt m-reduplikasjon: "Blomst(er)" heter "gol", og "blomster og sånn" svarer til "gol mol". "Eple(r)" heter "sib", "eple og sånn" svarer til "sib mib". Og når en sier at en ikke spiste eple og sånn, "Sib mib na-xord-am", mener en gjerne at en verken spiste eple eller noe annen frukt.</p>
-    <p>La oss teste om dette gjelder for "og sånn også.</p>
+    <p>La oss teste om dette gjelder for "og sånn" også.</p>
     <ol style="counter-reset: item 6; margin-top:-10px"><li>Else understreker at ”vi spiser aldri pizza og sånn” og kan sees på som et forsøk på å markere et klasseskille, …</li>
   <li>Kanskje han også kan bare ta litt på deg, men ikke kysse og sånn på noen uker?</li>
   <li>Jeg liker ikke å se meg selv i aviser og sånn.</li></ol>
