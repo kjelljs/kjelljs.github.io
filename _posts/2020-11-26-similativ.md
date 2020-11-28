@@ -41,7 +41,7 @@ figcaption {
 
 <div style="float:right;"><figure class="rightfig"><img style="width:140px; border: #333 1pt solid" src="/pics/zero.jpg"><figcaption>Semantikken til "og sånn"<br/>ifølge folketeorien</figcaption></figure></div>
 <div class="ingress"><p>Uttrykket "og sånn" (eller "ogsånn" eller "åsånn") havner høyt på listene over såkalte fyllord som folk irriterer seg over. Det er pussig at det har så dårlig rykte, for det er nært i slekt med – for eksempel – de to japanske suffiksene "-toka" og "-tari", som visst ingen irriterer seg over, og som det finnes en raffinert teori om. Her er historien om det de betyr, disse tre: "-toka", "-tari" – og "åsånn".</p></div>
-<h3>Folketeorien: Tomhet, intet, null</h3>
+<h2>Folketeorien: Tomhet, intet, null</h2>
 <p>Fra Det norske akademis ordbok:</p>
 <div class="ingress"><p><a href="https://naob.no/ordbok/sånn"><b>og sånn</b></a></p></div>
   <ul><li style="line-height: 1.4em"><span class="small">Brukt som ubestemt tilføyelse istedenfor nærmere presis utfylling av et foregående ledd</span></li></ul>
@@ -63,8 +63,10 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <p>Det "-toka" og "-tari" gjør, er å transformere det de hekter seg på, P, til <b>miksen av det og noe som ligner</b>, P<sup>~</sup>. Dette formaliseres med et begrep om blanding – mengden av summer mellom Y og Z, med Y fra P og Z fra P<sup>~</sup> – og et begrep om det som ligner, kodet med tegnet ~. Teorien om blandinger er del av <b>mereologi</b>, teorien om deler og helheter, og fenomener som kjennetegnes av lign-ing, kan sammenfattes med begrepet <b>similativitet.</b>
   <p>Mer eksakt kan betydningen definieres slik:</p>
   <ol style="counter-reset: item 5; margin-top:-10px"><li> &nbsp;<span style="margin-right: -2pt">[</span>[ <i>-toka</i> / <i>-tari</i> <span style="margin-right: -2pt">]</span>] = λP λX X &#8712; { Y&oplus;Z | Y&#8712;*P, Z&#8712;*P<sup>~</sup> } </li></ol><p>*M er den kumulative tillukningen over M, mengden av summer av ting i M. For "-toka" sin del vil argumentet P være av typen <e,t>, mengder av objekter, mens det for "-tari" sin del vil være av typen <v,t>, mengder av eventer.</p><p>Anvendt på eksemplet (4) vil P svare til "brød", og "og sånn" til "-toka", og anvendt på eksemplet (5) vil P svare til "bake brød", og "og sånn" til "-tari". Med betydningsdefinisjonen (6) som rettesnor vil (4) kunne få denne parafrasen:  Kunne tenke meg å bake både brød og noe som ligner på brød – si rundstykker, og (5) vil kunne få denne parafrasen: Kunne tenke meg å både bake brød og gjøre noe som ligner på å bake brød – si å strikke. Og det er det jo forskjell på.</p>
-  <h2>Fra både-og til verken-eller<h2>
+  <h2>Fra både-og til verken-eller</h2>
     <p>Når "-toka" eller "-tari" er i en kontekst under en såkalt monotont synkende operator, som for eksempel negasjon, skulle en ut fra det de ellers betyr, i stigende kontekster, vente en ganske svak tolkning: ikke(brød og rundstykker) = kanskje brød, kanskje rundstykker, kanskje ingenting, bare ikke begge deler. Men det en ofte kan observere, er at og-et slår om til et eller, slik at tolkningen blir sterkere: ikke(brød eller rundstykker) = ikke brød og ikke rundstykker heller, eller i det hele tatt noe som ligner.</p>
     <p>Dette er tilfelle i et annet språk med et lignende uttrykk som "-toka" også, nemlig persisk, der "og sånn" uttrykkes med en såkalt m-reduplikasjon: "Blomst(er)" heter "gol", og "blomster og sånn" svarer til "gol mol". "Eple(r)" heter "sib", "eple og sånn" svarer til "sib mib". Og når en sier at en ikke spiste eple og sånn, "Sib mib na-xord-am", mener en gjerne at en verken spiste eple eller noe annen frukt.</p>
     <p>La oss teste om dette gjelder for "og sånn også.</p>
-    
+    <ol style="counter-reset: item 6; margin-top:-10px"><li>Else understreker at ”vi spiser aldri pizza og sånn” og kan sees på som et forsøk på å markere et klasseskille, …</li>
+  <li>Kanskje han også kan bare ta litt på deg, men ikke kysse og sånn på noen uker?</li>
+  <li>Jeg liker ikke å se meg selv i aviser og sånn.</li></ol>
