@@ -61,4 +61,4 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <li>Kunne tenke meg å [[bake brød][og sånn]]</li>
   <li>Kunne tenke meg å bake [[brød][og sånn]]</li></ol>
   <p>Hvis folketeorien stemmer, skulle ikke dette ha noe å si – null betydning er null betydning uansett nivå. Men at det har noe å si, kommer vi til.</p>
-  <p>
+  <p>Det "-toka" og "-tari" gjør, er å transformere det de hekter seg på, til <b>blandingen av det og noe lignende</b>.
