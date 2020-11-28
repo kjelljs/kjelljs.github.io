@@ -52,13 +52,12 @@ figcaption {
 <p>
 La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres hos Smith (2020), – og eksemplene kan hentes fra norsk. I form av attesterte ytringer med "og sånn".</p>
 <p>De to formativene har i bunn og grunn samme betydning, men litt ulik syntaks, og det de &laquo;føyes til&raquo; eller &laquo;henges på&raquo; (jfr. sitatene fra Det norske akademis ordbok og Riksmålsforbundets grammatikk), har ulik type: Det er nomenfraser, som betegner objektmengder ("-toka") eller verbfraser, som betegner eventmengder ("-tari"). De to tilfellene flyter sammen i "og sånn": Dette kan hektes på både nomenfraser og verbfraser:</p>
-<ol style="counter-reset: item 0; margin-top:-10px"><li>
-  Det er nikotin og sånn i det.</li>
+<ol style="counter-reset: item 0; margin-top:-10px"><li>Det er nikotin og sånn i det.</li>
   <li>Jeg forta meg å kle på meg og sånn.</li></ol>
 <p>Og ettersom ordstillingen ikke får til å sondre mellom de to typene, vil vi få tvetydigheter: Setning (3) for eksempel kan ha strukturen i (4) eller (5).
   </p>
   <ol style="counter-reset: item 2; margin-top:-10px"><li>Kunne tenke meg og bake brød og sånn, …</li>
-  <li>Kunne tenke meg å [[bake brød][og sånn]]</li>
-  <li>Kunne tenke meg å bake [[brød][og sånn]]</li></ol>
+  <li>Kunne tenke meg å [bake brød][og sånn]</li>
+  <li>Kunne tenke meg å bake [brød][og sånn]</li></ol>
   <p>Hvis folketeorien stemmer, skulle ikke dette ha noe å si – null betydning er null betydning uansett nivå. Men at det har noe å si, kommer vi til.</p>
   <p>Det "-toka" og "-tari" gjør, er å transformere det de hekter seg på, P, til <b>miksen av det og noe som ligner</b>, P<sup>~</sup>. Dette formaliseres med et begrep om blanding – mengden av summer mellom X og Y, med X fra P og Y fra P<sup>~</sup> – og et begrep om det som ligner. Teorien om blandinger er del av <b>mereologi</b>, teorien om deler og helheter, og teori om det som ligner, kan kalles <b>similativitetsteori.</b>
