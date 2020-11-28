@@ -60,4 +60,6 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <li>Kunne tenke meg å [bake brød][og sånn]</li>
   <li>Kunne tenke meg å bake [brød][og sånn]</li></ol>
   <p>Hvis folketeorien stemmer, skulle ikke dette ha noe å si – null betydning er null betydning uansett nivå. Men at det har noe å si, kommer vi til.</p>
-  <p>Det "-toka" og "-tari" gjør, er å transformere det de hekter seg på, P, til <b>miksen av det og noe som ligner</b>, P<sup>~</sup>. Dette formaliseres med et begrep om blanding – mengden av summer mellom X og Y, med X fra P og Y fra P<sup>~</sup> – og et begrep om det som ligner. Teorien om blandinger er del av <b>mereologi</b>, teorien om deler og helheter, og teori om det som ligner, kan kalles <b>similativitetsteori.</b>
+  <p>Det "-toka" og "-tari" gjør, er å transformere det de hekter seg på, P, til <b>miksen av det og noe som ligner</b>, P<sup>~</sup>. Dette formaliseres med et begrep om blanding – mengden av summer mellom X og Y, med X fra P og Y fra P<sup>~</sup> – og et begrep om det som ligner, kodet med tegnet ~. Teorien om blandinger er del av <b>mereologi</b>, teorien om deler og helheter, og fenomener som har med lign-ing å gjøre, kan sammenfattes med begrepet <b>similativitet.</b>
+  <p>Mer eksakt kan betydningen definieres slik:</p>
+  <ul><li>
