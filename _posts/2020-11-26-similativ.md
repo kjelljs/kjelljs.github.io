@@ -48,13 +48,13 @@ figcaption {
 <p>Og fra Riksmålsforbundets grammatikk:</p>
 <ul><li style="line-height: 1.4em"><a href="https://www.riksmalsforbundet.no/grammatikk/kapittel-8-pronomener/7/">&laquo;Som rent fyllord henges i visse former for muntlig språk <i>og sånn</i> på utsagn som i og for seg allerede er fullstendige: <i>Broren min er veldig kjip og sånn</i>. Utgangspunktet er sannsynligvis utsagn hvor en slags fortsettelse gir seg av seg selv i form av nærliggende assosiasjoner: <i>Pappaen min har mye penger og sånn</i>.&raquo;</a></li></ul>
 <p>Her reflekteres folketeorien om "og sånn": Det er et uttrykk uten innhold. Og hvis det virkelig er slik at et uttrykk som brukes til stadighet, ikke betyr noe som helst, så er jo irritasjonen forståelig – da kan en like godt la være å bruke det, og ut fra et økonomiprinsipp <b>bør</b> en da også la det være, resonneres det.</p> <p>Men hadde det vært slik, så ville vi latt det være av oss selv. Og det er ikke slik heller. Folketeorien er langt unna sannheten.</p>
-<h3>Similativitet og mereologi</h3>
+<h2>Similativitet og mereologi</h2>
 <p>
 La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres hos Smith (2020), – og eksemplene kan hentes fra norsk. I form av attesterte ytringer med "og sånn".</p>
 <p>De to formativene har i bunn og grunn samme betydning, men litt ulik syntaks, og det de &laquo;føyes til&raquo; eller &laquo;henges på&raquo; (jfr. sitatene fra Det norske akademis ordbok og Riksmålsforbundets grammatikk), har ulik type: Det er nomenfraser, som betegner objektmengder ("-toka") eller verbfraser, som betegner eventmengder ("-tari"). De to tilfellene flyter sammen i "og sånn": Dette kan hektes på både nomenfraser og verbfraser:</p>
 <ol style="counter-reset: item 0; margin-top:-10px"><li>Det er nikotin og sånn i det.</li>
   <li>Jeg forta meg å kle på meg og sånn.</li></ol>
-<p>Og ettersom ordstillingen ikke får til å sondre mellom de to typene, vil vi få tvetydigheter: Setning (3) for eksempel kan ha strukturen i (4) eller (5).
+<p>Og ettersom ordstillingen ikke kan sondre mellom de to typene når det er et verb med objekt, vil vi få tvetydigheter: Setning (3) for eksempel kan ha strukturen i (4) eller (5).
   </p>
   <ol style="counter-reset: item 2; margin-top:-10px"><li>Kunne tenke meg å bake brød og sånn, …</li>
   <li>Kunne tenke meg å [bake brød][og sånn]</li>
@@ -63,4 +63,8 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <p>Det "-toka" og "-tari" gjør, er å transformere det de hekter seg på, P, til <b>miksen av det og noe som ligner</b>, P<sup>~</sup>. Dette formaliseres med et begrep om blanding – mengden av summer mellom Y og Z, med Y fra P og Z fra P<sup>~</sup> – og et begrep om det som ligner, kodet med tegnet ~. Teorien om blandinger er del av <b>mereologi</b>, teorien om deler og helheter, og fenomener som kjennetegnes av lign-ing, kan sammenfattes med begrepet <b>similativitet.</b>
   <p>Mer eksakt kan betydningen definieres slik:</p>
   <ol style="counter-reset: item 5; margin-top:-10px"><li> &nbsp;<span style="margin-right: -2pt">[</span>[ <i>-toka</i> / <i>-tari</i> <span style="margin-right: -2pt">]</span>] = λP λX X &#8712; { Y&oplus;Z | Y&#8712;*P, Z&#8712;*P<sup>~</sup> } </li></ol><p>*M er den kumulative tillukningen over M, mengden av summer av ting i M. For "-toka" sin del vil argumentet P være av typen <e,t>, mengder av objekter, mens det for "-tari" sin del vil være av typen <v,t>, mengder av eventer.</p><p>Anvendt på eksemplet (4) vil P svare til "brød", og "og sånn" til "-toka", og anvendt på eksemplet (5) vil P svare til "bake brød", og "og sånn" til "-tari". Med betydningsdefinisjonen (6) som rettesnor vil (4) kunne få denne parafrasen:  Kunne tenke meg å bake både brød og noe som ligner på brød – si rundstykker, og (5) vil kunne få denne parafrasen: Kunne tenke meg å både bake brød og gjøre noe som ligner på å bake brød – si å strikke. Og det er det jo forskjell på.</p>
-  <h3>Fra 
+  <h2>Fra både-og til verken-eller<h2>
+    <p>Når "-toka" eller "-tari" er i en kontekst under en såkalt monotont synkende operator, som for eksempel negasjon, skulle en ut fra det de ellers betyr, i stigende kontekster, vente en ganske svak tolkning: ikke(brød og rundstykker) = kanskje brød, kanskje rundstykker, kanskje ingenting, bare ikke begge deler. Men det en ofte kan observere, er at og-et slår om til et eller, slik at tolkningen blir sterkere: ikke(brød eller rundstykker) = ikke brød og ikke rundstykker heller, eller i det hele tatt noe som ligner.</p>
+    <p>Dette er tilfelle i et annet språk med et lignende uttrykk som "-toka" også, nemlig persisk, der "og sånn" uttrykkes med en såkalt m-reduplikasjon: "Blomst(er)" heter "gol", og "blomster og sånn" svarer til "gol mol". "Eple(r)" heter "sib", "eple og sånn" svarer til "sib mib". Og når en sier at en ikke spiste eple og sånn, "Sib mib na-xord-am", mener en gjerne at en verken spiste eple eller noe annen frukt.</p>
+    <p>La oss teste om dette gjelder for "og sånn også.</p>
+    
