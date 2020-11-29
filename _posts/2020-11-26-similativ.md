@@ -76,9 +76,10 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <h2 style="margin-top: 1.6em">OG sånn: Sum snarere enn konjunksjon</h2>
 <p>Legg merke til at hvis "og sånn" skal få samme slags analyse som "-toka", "-tari" og m-reduplikasjon, må ordet "og" ikke analyseres som logisk konjunksjon på setningsplan, &#8743;, men som sum, &oplus;. Skulle det vært &#8743;, måtte verbfrasen i (9) vært ensbetydende med enten (9-i) eller (9-ii):</p>
   <ol style="margin-top:-10px"><li> Da skulle vi trene en time om dagen og så spise masse frukt og sånn. <br/><p style="margin-left: 20px">i. <span style="color: white">i</span>spise masse frukt og masse som ligner på frukt<br/>
-    ii. spise masse som er frukt og som ligner på frukt</p></li></ol><p>Og verken det ene eller det andre treffer helt. Men hvis "og" tolkes som sum, rimer det bra både med måten similativene i japansk og persisk analyseres på, og med andre tilfeller av "og" som i (10) eller (11):</p>
+    ii. spise masse som er frukt og som ligner på frukt</p></li></ol><p>Og verken det ene eller det andre treffer helt. Men hvis "og" tolkes som sum, rimer det bra både med måten similativene i japansk og persisk analyseres på, og med andre tilfeller av "og" som i (9) eller (10):</p>
     <ol style="margin-top:-10px"><li> Totalt åtte kvinner og menn har søkt på stillingen som ny rådmann i Eide.</li>
     <li> Skjerfet er hvitt, blått og gullfarget.</li></ol>
     <h2 style="margin-top: 1.6em">Så – hvorfor så dårlig rykte?</h2>
-<p>Det er liten tvil om at "og sånn" betyr noe: Sannhetsbetingelsene er rett og slett annerledes med enn uten. Ta (12) og (13):</p>
-  <ol style="margin-top:-10px"><li> Jobben består i å rydde i butikken og sånn.</li><li> Sivilforsvaret sin hopvedoppgave er å bekjempe flom og sånn.</li></ol>
+<p>Det er liten tvil om at "og sånn" betyr noe: Sannhetsbetingelsene er rett og slett annerledes med enn uten. Ta (11) og (12):</p>
+  <ol style="margin-top:-10px"><li> Jobben består i å rydde i butikken og sånn.</li><li> Sivilforsvaret sin hovedoppgave er å bekjempe flom og sånn.</li></ol>
+  <p>Det er lett å forestille seg at (11) beskriver en situasjon der en deltidsjobb på Kiwi består i å rydde i butikken og utføre andre oppgaver som ligner på det, slik som å fylle på nye varer fra lageret i hyllene og diskene, losse varer fra bil til lager og rydde på lageret, og gjøre forefallende arbeid som butikkleder ber en om. Den tilsvarende setningen uten "og sånn" vil gi et helt misvisende bilde av arbeidsoppgavene. Og (12) kan vel til nød sies å gi et sant bilde av heimevernets hovedoppgave – men uten "og sånn" ville den ikke ha håp om å være sann.</p>
