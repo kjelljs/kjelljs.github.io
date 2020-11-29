@@ -57,7 +57,7 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
 <p>Og ettersom ordstillingen ikke kan sondre mellom de to typene når det er et verb med objekt, vil vi få tvetydigheter: Setning (3) for eksempel kan ha strukturen i (3-i), der "og sånn" hekter seg på nomenfrasen "brød", eller (3-ii), der "og sånn" hekter seg på verbfrasen "bake brød".
   </p>
   <ol style="margin-top:-10px"><li>Kunne tenke meg å bake brød og sånn, …<br/>
-  <p style="margin-left: 20px">i. <span style="textcolor: white">i</span>kunne tenke meg å [bake brød][og sånn]<br/>
+  <p style="margin-left: 20px">i. <span style="color: white">i</span>kunne tenke meg å [bake brød][og sånn]<br/>
     ii. kunne tenke meg å bake [brød][og sånn]</p></li></ol>
   <p>Hvis folketeorien stemmer, skulle ikke dette ha noe å si – null betydning er null betydning uansett nivå. Men at det har noe å si, kommer vi til.</p>
   <p>Det "-toka" og "-tari" gjør, er å transformere det de hekter seg på, P, til <b>miksen av det og noe som ligner</b>, P<sup>~</sup>. Dette formaliseres med et begrep om blanding – mengden av summer mellom Y og Z, med Y fra P og Z fra P<sup>~</sup> – og et begrep om det som ligner, kodet med tegnet ~. Teorien om blandinger er del av <b>mereologi</b>, teorien om deler og helheter, og fenomener som kjennetegnes av lign-ing, kan sammenfattes med begrepet <b>similativitet.</b>
@@ -75,8 +75,8 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <p>Dette omslaget fra positiv konjunksjon (altså og) til negativ disjunksjon (altså eller) er utfordrende teoretisk. Det Smith (2020) foreslår, er at den sterke positive tolkningen er resultat av pragmatisk styrking av en i utgangspunktet svak semantikk – nærmere bestemt, å ikke definere similativene som i (4), ved hjelp av mengden av lignende men ikke like ting P<sup>~</sup>, men ved hjelp av P<sup>&#8771;</sup>, mengden av lignende <b>eller like</b> ting.</p>
   <h2 style="margin-top: 1.6em">OG sånn: Sum snarere enn konjunksjon</h2>
 <p>Legg merke til at hvis "og sånn" skal få samme slags analyse som "-toka", "-tari" og m-reduplikasjon, må ordet "og" ikke analyseres som logisk konjunksjon på setningsplan, &#8743;, men som sum, &oplus;. Skulle det vært &#8743;, måtte verbfrasen i (9) vært ensbetydende med enten (9-i) eller (9-ii):</p>
-  <ol style="margin-top:-10px"><li> Da skulle vi trene en time om dagen og så spise masse frukt og sånn. <p style="margin-left: 20px">i. <span style="textcolor: white">i</span>spise masse frukt og masse som ligner på frukt<br/>
-    spise masse som er frukt og som ligner på frukt</li></ol><p>Og verken det ene eller det andre treffer helt. Men hvis "og" tolkes som sum, rimer det bra både med måten similativene i japansk og persisk analyseres på, og med andre tilfeller av "og" som i (10) eller (11):</p>
+  <ol style="margin-top:-10px"><li> Da skulle vi trene en time om dagen og så spise masse frukt og sånn. <br/><p style="margin-left: 20px">i. <span style="textcolor: white">i</span>spise masse frukt og masse som ligner på frukt<br/>
+    spise masse som er frukt og som ligner på frukt</p></li></ol><p>Og verken det ene eller det andre treffer helt. Men hvis "og" tolkes som sum, rimer det bra både med måten similativene i japansk og persisk analyseres på, og med andre tilfeller av "og" som i (10) eller (11):</p>
     <ol style="margin-top:-10px"><li> Totalt åtte kvinner og menn har søkt på stillingen som ny rådmann i Eide.</li>
     <li> Skjerfet er hvitt, blått og gullfarget.</li></ol>
     <h2 style="margin-top: 1.6em">Så – hvorfor så dårlig rykte?</h2>
