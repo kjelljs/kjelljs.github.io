@@ -77,7 +77,7 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
 <p>Legg merke til at hvis "og sånn" skal få samme slags analyse som "-toka", "-tari" og m-reduplikasjon, må ordet "og" ikke analyseres som logisk konjunksjon på setningsplan, &#8743;, men som sum, &oplus;. Skulle det vært &#8743;, måtte verbfrasen i (11) vært ensbetydende med enten (12) eller (13):</p>
   <ol style="margin-top:-10px"><li> Da skulle vi trene en time om dagen og så spise masse frukt og sånn.</li><li> spise masse frukt og masse som ligner på frukt</li>
     <li> spise masse som er frukt og som ligner på frukt</li></ol><p>Og verken det ene eller det andre treffer helt. Men hvis "og" tolkes som sum, rimer det bra både med måten similativene i japansk og persisk analyseres på, og med andre tilfeller av "og" som i (14) eller (15):</p>
-    <ol style="margin-top:-10px"><li>Totalt åtte kvinner og menn har søkt på stillingen som ny rådmann i Eide.</li>
-    <li>Skjerfet er hvitt, blått og gullfarget.</li></ol>
+    <ol style="margin-top:-10px"><li> Totalt åtte kvinner og menn har søkt på stillingen som ny rådmann i Eide.</li>
+    <li> Skjerfet er hvitt, blått og gullfarget.</li></ol>
     <h2>Så – hvorfor så dårlig rykte?</h2>
 <p>Det er liten tvil om at "og sånn" betyr noe: Sannhetsbetingelsene er rett og slett annerledes med enn uten. Ta (14):</p>
