@@ -78,7 +78,7 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <ol style="margin-top: .4em"><li> Da skulle vi trene en time om dagen og så spise masse frukt og sånn. <br/><p style="margin-left: 20px">i. <span style="color: white">i</span>spise masse frukt og masse som ligner på frukt<br/>
     ii. spise masse som er frukt og som ligner på frukt</p></li></ol><p>Og verken det ene eller det andre treffer helt. Men hvis "og" tolkes som sum, rimer det bra både med måten similativene i japansk og persisk analyseres på, og med andre tilfeller av "og" som i (9) eller (10):</p>
     <ol style="margin-top: .4em"><li> Totalt åtte kvinner og menn har søkt på stillingen som ny rådmann i Eide.</li>
-    <li> Skjerfet er hvitt, blått og gullfarget.</li></ol>
+    <li> Moldeskjerfet er hvitt, blått og gullfarget.</li></ol>
     <h2 style="margin-top: 1.6em">Så – hvorfor så dårlig rykte?</h2>
 <p>Det er liten tvil om at "og sånn" betyr noe: Sannhetsbetingelsene er rett og slett annerledes med enn uten. Ta (11) og (12):</p>
   <ol style="margin-top: .4em"><li> Jobben består i å rydde i butikken og sånn.</li><li> Sivilforsvaret sin hovedoppgave er å bekjempe flom og sånn.</li></ol>
