@@ -52,7 +52,7 @@ figcaption {
 <p>
 La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres hos Smith (2020), – og eksemplene kan hentes fra norsk. I form av attesterte ytringer med "og sånn".</p>
 <p>De to formativene har i bunn og grunn samme betydning, men litt ulik syntaks, og det de &laquo;føyes til&raquo; eller &laquo;henges på&raquo; (jfr. sitatene fra Det norske akademis ordbok og Riksmålsforbundets grammatikk), har ulik type: Det er nomenfraser, som betegner objektmengder ("-toka") eller verbfraser, som betegner eventmengder ("-tari"). De to tilfellene flyter sammen i "og sånn": Dette kan hektes på både nomenfraser og verbfraser:</p>
-<ol style="counter-reset: item 0; margin-top:-10px"><li>Det er nikotin og sånn i det.</li>
+<ol style="counter-reset: item 0"><li>Det er nikotin og sånn i det.</li>
   <li>Jeg forta meg å kle på meg og sånn.</li></ol>
 <p>Og ettersom ordstillingen ikke kan sondre mellom de to typene når det er et verb med objekt, vil vi få tvetydigheter: Setning (3) for eksempel kan ha strukturen i (3-i), der "og sånn" hekter seg på nomenfrasen "brød", eller (3-ii), der "og sånn" hekter seg på verbfrasen "bake brød".
   </p>
