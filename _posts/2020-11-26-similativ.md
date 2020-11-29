@@ -11,7 +11,7 @@ comments: true
 }
 ol li {
   display: block;
-  margin-bottom: .5em;
+  margin-bottom: .4em;
   margin-left: 2em;
 }
 ol li::before {
