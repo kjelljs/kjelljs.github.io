@@ -81,4 +81,4 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
     <li> Skjerfet er hvitt, blått og gullfarget.</li></ol>
     <h2 style="margin-top: 1.6em">Så – hvorfor så dårlig rykte?</h2>
 <p>Det er liten tvil om at "og sånn" betyr noe: Sannhetsbetingelsene er rett og slett annerledes med enn uten. Ta (16) og (17):</p>
-  <ol style="margin-top:-10px"><li> Jobben består i å rydde i butikken og sånn.</li><li> Sivilforsvaret sin hopvedoppgave er å bekjempe flommer og sånn.</li></ol>
+  <ol style="margin-top:-10px"><li> Jobben består i å rydde i butikken og sånn.</li><li> Sivilforsvaret sin hopvedoppgave er å bekjempe flom og sånn.</li></ol>
