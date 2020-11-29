@@ -74,4 +74,12 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
   <p>Atter et tegn, altså, på at "og sånn" = "-toka"/"-tari" i japansk = (når P er en nomenfrase) m-reduplisering i persisk (hvor "pizza og sånn" blir "pizza mizza").</p>
   <p>Dette omslaget fra positiv konjunksjon (altså og) til negativ disjunksjon (altså eller) er utfordrende teoretisk. Det Smith (2020) foreslår, er at den sterke positive tolkningen er resultat av pragmatisk styrking av en i utgangspunktet svak semantikk – nærmere bestemt, å ikke definere similativene som i (6), ved hjelp av mengden av lignende men ikke like ting P<sup>~</sup>, men ved hjelp av P<sup>&#8771;</sup>, mengden av lignende eller like ting, konkret:</p>
   <ol style="margin-top:-10px"><li> &nbsp;<span style="margin-right: -2pt">[</span>[ <i>-toka</i> / <i>-tari</i> <span style="margin-right: -2pt">]</span>] = λP λX *P<sup>&#8771;</sup>(X) </li></ol>
+  <h2>Og-et i "og sånn": Sum, ikke konjunksjon</h2>
+<p>Legg merke til at hvis "og sånn" skal få samme analyse som "-toka", "-tari" og m-reduplikasjon, må ordet "og" ikke analyseres som logisk konjunksjon på setningsplan, &#8743;, men som sum, &oplus;. Skulle det vært &#8743;, måtte verbfrasen i (10) vært ensbetydende med enten (11) eller (12):</p>
+  <ol style="margin-top:-10px"><li>Da skulle vi trene en time om dagen og så spise masse frukt og sånn.</li><li>spise masse frukt og masse som ligner på frukt</li>
+    <li>spise masse som er frukt og som ligner på frukt</li></ol><p>Og verken det ene eller det andre treffer helt. Men hvis "og" tolkes som sum, rimer det bra både med måten similativene i japansk og persisk analyseres på, og med andre tilfeller av "og" som i (12) eller (13):</p>
+    <ol style="margin-top:-10px"><li>Totalt åtte kvinner og menn har søkt på stillingen som ny rådmann i Eide./li>
+    <li>Skjerfet er hvitt, blått og gullfarget.</li></ol>
+  
     <h2>Så – hvorfor så dårlig rykte?</h2>
+<p>Det er liten tvil om at "og sånn" betyr noe: Sannhetsbetingelsene er rett og slett annerledes med enn uten. Ta (14):
