@@ -70,15 +70,14 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
     <ol style="counter-reset: item 6; margin-top:-10px"><li>Else understreker at ”vi spiser aldri pizza og sånn” og kan sees på som et forsøk på å markere et klasseskille, …</li>
   <li>Kanskje han også kan bare ta litt på deg, men ikke kysse og sånn på noen uker?</li>
   <li>Jeg er ikke så god til å sage og sånn.</li></ol>
-  Og det gjør det: For at Else skal ha sine ord i behold, holder det ikke om det aldri forekommer at de spiser taco eller kebab eller burgere, hvis de likevel av og til spiser pizza, og det holder ikke om de aldri spiser pizza hvis de tross alt spiser taco eller kebab eller burgere en gang i blant. Og tilsvarende for (8) og (9).</p>
+  <p>Og det gjør det: For at Else skal ha sine ord i behold, holder det ikke om det aldri forekommer at de spiser taco eller kebab eller burgere, hvis de likevel av og til spiser pizza, og det holder ikke om de aldri spiser pizza hvis de tross alt spiser taco eller kebab eller burgere en gang i blant. Og tilsvarende for (8) og (9).</p>
   <p>Atter et tegn, altså, på at "og sånn" = "-toka"/"-tari" i japansk = (når P er en nomenfrase) m-reduplisering i persisk (hvor "pizza og sånn" blir "pizza mizza").</p>
   <p>Dette omslaget fra positiv konjunksjon (altså og) til negativ disjunksjon (altså eller) er en utfordrende teoretisk. Det Smith (2020) foreslår, er at en av de to sterke tolkningene er resultat av pragmatisk styrking, med en implikatur, av en i utgangspunktet svak semantikk – mer eksakt er det å ikke definere similativene som i (6), ved hjelp av mengden av lignende men ikke like ting P<sup>~</sup>, men ved hjelp av P<sup>&#8771;</sup>, mengden av lignende eller like ting.</p><p>Dette er også fordelaktig med tanke på tilfeller som (10), der en NP modifisert med "og sånn" er kvantifisert: Det vi skulle spise masse av, må ikke være ting som delvis består av noe annet enn frukt, men kan være dels ting som  består av frukt og dels ting som består av frukt og noe annet som ligner (tomater kanskje).</p>
-  <ol style="counter-reset: item 6; margin-top:-10px"><li>Da skulle vi trene en time om dagen og så spise masse frukt og sånn.</li></ol>
+  <ol style="margin-top:-10px"><li>Da skulle vi trene en time om dagen og så spise masse frukt og sånn.</li></ol>
   <h2>Og-et i "og sånn": Sum, ikke konjunksjon</h2>
 <p>Legg merke til at ordet "og" i "og sånn" ikke betyr logisk konjunksjon, &#8743;, men sum, &oplus;. Skulle det betydd &#8743;, måtte verbfrasen i (10) vært ensbetydende med enten (11) eller (12):</p>
-  <ol style="counter-reset: item 6; margin-top:-10px"><li>spise masse frukt og masse som ligner på frukt</li>
-    <li>spise masse som er frukt og som ligner på frukt</li></ol>
-    <p>Og verken det ene eller det andre treffer helt. Men hvis "og" tolkes som sum, rimer det godt både med måten similativene i japansk og persisk defineres på, og med andre tilfeller av "og" som i (13) eller (14):</p>
-    <ol style="counter-reset: item 6; margin-top:-10px"><li>Totalt åtte kvinner og menn har søkt på stillingen som ny rådmann i Eide./li>
+  <ol style="margin-top:-10px"><li>spise masse frukt og masse som ligner på frukt</li>
+    <li>spise masse som er frukt og som ligner på frukt</li></ol><p>Og verken det ene eller det andre treffer helt. Men hvis "og" tolkes som sum, rimer det godt både med måten similativene i japansk og persisk defineres på, og med andre tilfeller av "og" som i (13) eller (14):</p>
+    <ol style="margin-top:-10px"><li>Totalt åtte kvinner og menn har søkt på stillingen som ny rådmann i Eide./li>
     <li>Skjerfet er hvitt, blått og gullfarget.</li></ol>
     <h2>Så – hvorfor så dårlig rykte?</h2>
