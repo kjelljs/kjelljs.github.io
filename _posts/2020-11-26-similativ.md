@@ -106,4 +106,4 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
     <li>von Fintel, Kai og Lisa Matthewson (2008) Universals in semantics. <i>Linguistic Review</i> 25(1–2), 139–201.</li>
     <li>Hellesø, Ragnhild og Maren Sogstad (2019) «Jeg vet ikke hvorfor det er så vanskelig å skrive om det» – sykepleieres refleksjoner om sin journalføring. I Hellesø og Olsen (red.), <i>Digitalisering i sykepleietjenesten – en arbeidshverdag i endring</i>, 73–89, Oslo: Cappelen Damm Akademisk.
     <li>Katz, Jerrold J. (1976) A hypothesis about the uniqueness of natural language. I Stevan R. Harnad, Horst D. Steklis og Jane Lancaster (red.), <i>Origins and Evolution of Language and Speech</i>, nummer 280 i <i>Annals of the New York Academy of Sciences</i>, 33–41, New York.</li>
-    <li>Smith, Ryan W. (2020) Similative plurals and the nature of alternatives. <i>Semantics and Pragmatics</i> 13(15), 39 s,</li></ul>
+    <li>Smith, Ryan W. (2020) Similative plurals and the nature of alternatives. <i>Semantics and Pragmatics</i> 13(15), 39 s.</li></ul>
