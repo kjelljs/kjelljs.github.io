@@ -44,7 +44,7 @@ figcaption {
 <h2 style="margin-top: 1.6em">Folketeorien: Tomhet, intet, null</h2>
 <p>Fra Det norske akademis ordbok:</p>
 <div class="ingress"><p><a href="https://naob.no/ordbok/sånn"><b>og sånn</b></a></p></div>
-  <ul><li style="line-height: 1.4em"><span class="small">Brukt som ubestemt tilføyelse istedenfor nærmere presis utfylling av et foregående ledd</span></li></ul>
+  <ul><li style="line-height: 1.4em; margin-top:-.5em"><span class="small">Brukt som ubestemt tilføyelse istedenfor nærmere presis utfylling av et foregående ledd</span></li></ul>
 <p>Og fra Riksmålsforbundets grammatikk:</p>
 <ul><li style="line-height: 1.4em"><a href="https://www.riksmalsforbundet.no/grammatikk/kapittel-8-pronomener/7/">&laquo;Som rent fyllord henges i visse former for muntlig språk <i>og sånn</i> på utsagn som i og for seg allerede er fullstendige: <i>Broren min er veldig kjip og sånn</i>. Utgangspunktet er sannsynligvis utsagn hvor en slags fortsettelse gir seg av seg selv i form av nærliggende assosiasjoner: <i>Pappaen min har mye penger og sånn</i>.&raquo;</a></li></ul>
 <p>Her reflekteres folketeorien om "og sånn": Det er et uttrykk uten innhold. Og hvis det virkelig er slik at et uttrykk som brukes til stadighet, ikke betyr noe som helst, så er jo irritasjonen forståelig – da kan en like godt la være å bruke det, og ut fra et økonomiprinsipp <b>bør</b> en da også la det være, resonneres det.</p> <p>Men hadde det vært slik, så ville vi latt det være av oss selv. Og det er ikke slik heller. Folketeorien er langt unna sannheten.</p>
