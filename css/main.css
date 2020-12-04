@@ -168,6 +168,9 @@ ol {
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     line-height: 1.4em;
 }
+ol li {
+	color:#333;
+}
 a {
   text-decoration: none;
 }
