@@ -315,23 +315,8 @@ sub {
     line-height: 0;
 }
 
-div {
-  height: 50vh;
-  color: #000;
-  position: relative;
   
-  &::before {
-    content: attr(class);
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font: 600 1.5em/ 1.375 segoe script, comic sans ms, cursive;
-	  text-shadow: 1px 1px #000;
-    white-space: nowrap;
-  }
-  
-  &[class="gradient new"] {
+#"gradient new" {
     background: #3396f5;
     color: #fff;
     position: relative;
@@ -363,4 +348,3 @@ div {
       background-position: 0 -10px, 0 calc(100% + 10px);
 	  }
 	}
-}
