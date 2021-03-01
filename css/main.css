@@ -315,7 +315,7 @@ sub {
     line-height: 0;
 }
 
-.gradient {
+.stamp {
 	background: #3396f5;
     color: #fff;
     position: relative;
