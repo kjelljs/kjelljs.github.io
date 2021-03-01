@@ -314,3 +314,45 @@ sup {
 sub {
     line-height: 0;
 }
+
+.stamp {
+	border: 2px dashed #404040;
+	width:334px;
+	height:154px;
+	margin: -75px auto 0px auto;
+	z-index: -1;
+}
+
+.gradient {
+	background: #3396f5;
+    color: #fff;
+    position: relative;
+    height: 100%;
+	
+    &::before,
+    &::after {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      background: radial-gradient(circle, #fff 50%, transparent 50%), radial-gradient(circle, #fff 50%, transparent 50%);
+      background-size: 20px 20px;
+      transform: none;
+    }
+    
+    &::before {
+      top: 5px;
+      text-align: center;
+      background-repeat: repeat-y;
+      background-position: -10px 0%, calc(100% + 10px) 0;
+    }
+    
+    &::after {
+      content: '';
+      left: 5px;
+      background-repeat: repeat-x;
+      background-position: 0 -10px, 0 calc(100% + 10px);
+	  }
+	}
+
