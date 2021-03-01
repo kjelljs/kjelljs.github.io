@@ -316,6 +316,14 @@ sub {
 }
 
 .stamp {
+	border: 2px dashed #fff;
+	width:400px;
+	height:404px;
+	margin: -75px auto 0px auto;
+	z-index: -1;
+}
+
+.gradient {
 	background: #3396f5;
     color: #fff;
     position: relative;
