@@ -319,7 +319,7 @@ sub {
     background: #3396f5;
     color: #fff;
     position: relative;
-    height: 120%;
+    height: 100%;
     
     &::before,
     &::after {
