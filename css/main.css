@@ -315,9 +315,7 @@ sub {
     line-height: 0;
 }
 
-div {
-  
-&[class="gradient"] {
+#gradient {
     background: #3396f5;
     color: #fff;
     position: relative;
@@ -349,4 +347,4 @@ div {
       background-position: 0 -10px, 0 calc(100% + 10px);
 	  }
 	}
-}
+
