@@ -316,8 +316,8 @@ sub {
 }
 
 .bordermask {
-  -webkit-mask-box-image: url(/pics/stamptiles.svg) 20 repeat;
-   mask-border: url(/pics/stamptiles.svg) 20 repeat;
+  -webkit-mask-box-image: url(/pics/stamptiles.svg) 50 repeat;
+   mask-border: url(/pics/stamptiles.svg) 50 repeat;
 }
 
 .stamp {
