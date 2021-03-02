@@ -315,7 +315,9 @@ sub {
     line-height: 0;
 }
 
-.little { width: 50%; height: 50%;
+.border-mask {
+  -webkit-mask-box-image: url(/pics/stamptiles.svg) 30 repeat;
+  mask-border: url(/pics/stamptiles.svg) 30 repeat;
 }
 
 .stamp {
