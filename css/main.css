@@ -330,7 +330,7 @@ sub {
 
 .gradient {
     position: relative;
-    height: 90%;
+    height: 110%;
 	
     &::before,
     &::after {
