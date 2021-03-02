@@ -315,6 +315,9 @@ sub {
     line-height: 0;
 }
 
+.little { width: 50%; height: 50%;
+}
+
 .stamp {
 	border: 2px dashed #404040;
 	width:334px;
