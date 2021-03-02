@@ -1,4 +1,4 @@
-<svg width="400" height="200">
+<svg>
        <g>
             <image id="iconOne" width="200" height="100" xlink:href="stamptiles.svg" />
             <image id="iconTwo" width="200" height="100" xlink:href="stamptiles.svg" />
