@@ -1,4 +1,28 @@
+---
+layout: post2
+title: Alles relativ
+---
+<style>
+  ol {
+  margin-left: 0;
+  padding-left: 0;
+}
+ol li {
+  display: block;
+  margin-bottom: .5em;
+  margin-left: 2em;
+}
+ol li::before {
+  display: inline-block;
+  content: "(" counter(item) ") ";
+  counter-increment: item;
+  width: 2em;
+  margin-left: -2em;
+}
+</style>
 
+<
+<div class="ingress"><p>Es fragt sich, was die Königin den sprechenden Spiegel fragt:</p></div>
 
 
 Wenn (1) gefragt wird, kann der Spiegel nur "ja" oder "nein" antworten:
