@@ -169,6 +169,13 @@ ol {
     line-height: 1.4em;
 	color: #333;
 }
+ol.pic li::before {
+  display: inline-block;
+  content: "(" counter(item) ") ";
+  counter-increment: item;
+  width: 2em;
+  margin-left: 0;
+}
 a {
   text-decoration: none;
 }
