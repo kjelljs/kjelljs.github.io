@@ -57,8 +57,8 @@ La meg begynne med teorien om "-toka" og "-tari" i japansk, slik den presenteres
 <p>Og ettersom ordstillingen ikke kan sondre mellom de to typene når det er et verb med objekt, vil vi få tvetydigheter: Setning (3) for eksempel kan ha strukturen i (3-i), der "og sånn" hekter seg på nomenfrasen "brød", eller (3-ii), der "og sånn" hekter seg på verbfrasen "bake brød".
   </p>
   <ol style="margin-top: .4em"><li>Kunne tenke meg å bake brød og sånn, …<br/>
-  <p style="margin-left: 20px">i. <span style="color: white">i</span>kunne tenke meg å [bake brød][og sånn]<br/>
-    ii. kunne tenke meg å bake [brød][og sånn]</p></li></ol>
+  <p style="margin-left: 20px">i. <span style="color: white">i</span>kunne tenke meg å bake [brød][og sånn]<br/>
+    ii. kunne tenke meg å [bake brød][og sånn]</p></li></ol>
   <p>Hvis folketeorien stemmer, skulle ikke dette ha noe å si – null betydning er null betydning uansett nivå. Men at det har noe å si, kommer vi til.</p>
   <p>Det "-toka" og "-tari" gjør, er å transformere det de hekter seg på, P, til <b>miksen av det og noe som ligner</b>, P<sup>~</sup>. Dette formaliseres med et begrep om blanding – mengden av summer mellom Y og Z, med Y fra P og Z fra P<sup>~</sup> – og et begrep om det som ligner, kodet med tegnet ~. Teorien om blandinger er del av <b>mereologi</b>, teorien om deler og helheter, og fenomener som kjennetegnes av lign-ing, kan sammenfattes med begrepet <b>similativitet.</b>
   <p>Mer eksakt kan betydningen definieres slik:</p>
