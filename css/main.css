@@ -370,7 +370,7 @@ sub {
 	  }
 	}
 
-.image-format #td2 img {
+#td2 img {
     display: block;
     vertical-align: bottom; 
 }
