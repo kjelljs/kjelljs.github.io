@@ -3,6 +3,51 @@ layout: default
 title: Editorship
 ---
 <style>
+	/* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 680px;
+  background: linear-gradient(#F1949C, 10%, #FDEFF0);
+  color: #fff;
+  text-align: center;
+  border: #333 1pt solid;
+  margin: 0px 20px 0px 0px; 
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+	
 caption {
     color: #333;
     text-align: center;
@@ -16,6 +61,15 @@ figcaption {
     font-size: .8em;
 }
 </style>
+
+<script>
+// When the user clicks on div, open the popup
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
+
 	<h1>Editorship</h1>
 	<div style="width:80px; float:left;"><a href="https://semprag.org/index.php/sp/index"><img style="height:96px;" src="/pics/sp1.gif"></a></div>	
 	<div class="ingress"><p>Since October 2019, Louise McNally and I have been editors-in-chief of <a href="https://semprag.org/index.php/sp/index">Semantics and Pragmatics</a>, a journal of the Linguistic Society of America and the only one of the four main semantics journals to be Diamond Open Access.</p></div>
@@ -43,7 +97,8 @@ figcaption {
 
 <p>In other words, we are hands-on and do not hide behind reviewers and publishers' officers; a letter like this will not be coming from us:
 </p>
-<div style="width: 680px; background: linear-gradient(#F1949C, 10%, #FDEFF0); padding: 0px 20px 0px 20px; margin: 0px 20px 0px 0px; border: #333 1pt solid"><p>Dear ****,</p>
+<div class="popup" onclick="myFunction()">Your Submission XXXX-X-00-00000
+  <span class="popuptext" id="myPopup"><p>Dear ****,</p>
 <p>
 We have received reports from two advisors on your manuscript XXXX-X-00-00000 "******".
 </p><p>
@@ -52,8 +107,10 @@ With regret, I must inform you that, based on the advice received, the Editors h
 I would like to thank you very much for forwarding your manuscript to us for consideration and wish you every success in finding an alternative place of publication.
 </p><p>
 With kind regards,
-</p></div>
-	<div style="float:right;"><a href="https://www.linguisticsociety.org"><img style="height:60px;" src="/pics/LSAlogocmykWEB.jpg"></a></div><p>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</p>
+</p></span>
+</div>
+
+<div style="float:right;"><a href="https://www.linguisticsociety.org"><img style="height:60px;" src="/pics/LSAlogocmykWEB.jpg"></a></div><p>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</p>
 	
 	
 
