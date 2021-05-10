@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'american-uncialnormal';
-    src: url('american-uncial-normal_allfont.net-webfont.woff2') format('woff2'),
-         url('american-uncial-normal_allfont.net-webfont.woff') format('woff');
+    src: url('/webfontkit/american-uncial-normal_allfont.net-webfont.woff2') format('woff2'),
+         url('/webfontkit/american-uncial-normal_allfont.net-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
