@@ -370,3 +370,6 @@ sub {
 	  }
 	}
 
+#td2 img {
+    display: block;
+}

@@ -3,22 +3,100 @@ layout: default
 title: Editorship
 ---
 <style>
-figcaption {
+	/* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 680px;
+  background: linear-gradient(#F1949C, 15%, #FDEFF0);
+  color: #fff;
+  border: #333 1pt solid;
+  padding: 0px 20px 0px 20px; 
+  position: absolute;
+  z-index: 1;
+  bottom: 0%;
+  left: 0%;
+	}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+	
+caption {
     color: #333;
     text-align: center;
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
     font-size: .8em;
 }	
+figcaption {
+    color: #333;
+    text-align: center;
+    font-family: Optima, Candara, Calibri, Arial, sans-serif;
+    font-size: .8em;
+}
 </style>
+
+<script>
+// When the user clicks on div, open the popup
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
+
 	<h1>Editorship</h1>
 	<div style="width:80px; float:left;"><a href="https://semprag.org/index.php/sp/index"><img style="height:96px;" src="/pics/sp1.gif"></a></div>	
 	<div class="ingress"><p>Since October 2019, Louise McNally and I have been editors-in-chief of <a href="https://semprag.org/index.php/sp/index">Semantics and Pragmatics</a>, a journal of the Linguistic Society of America and the only one of the four main semantics journals to be Diamond Open Access.</p></div>
-	<div style="float:right;"><figure class="rightfig"><img style="height:200px;" src="/pics/mcnally.jpg"><figcaption>Louise McNally</figcaption></figure></div>
+	<div style="float:right;"><figure class="rightfig"><table border="2" cellspacing="2"><tr><td id="td2"><img style="height:200px" src="/pics/mcnally.jpg"></td></tr></table><figcaption style="padding:6px">Louise McNally</figcaption></figure></div>
 <p>Louise and I strive to sustain the successes achieved by the founding editors, David Beaver and Kai von Fintel, maintaining the exceptional standards set by them for the quality and timeliness of the editorial process.</p><hr>
 	<p>Here is the <a href="http://kjelljs.github.io/pdf/Finteltweet.pdf"><b>tweet</b></a> of Kai's on the occasion of the transition of the role of editors in chief from him and David to Louise and me.</p><hr>
-<p>When you submit a paper to us, one of the associate editors shown below, or Louise or I, signs on to shepherd it, soliciting reviewers, reading it carefully, and eventually – preferably within sixty days – writing a thorough and constructive letter of decision to you, informed by the reviews and approved by the whole editorial team.</p> <p>There are two key words here, <b>sixty</b> and <b>informed</b>. Sixty: It is our ambition that you should not have to wait for a decision for more than that number of days. Informed: It is likewise our policy to form a well-considered and comprehensive opinion of your submission and to communicate this opinion to you in a clear and helpful way.</p> <p>In other words, we are hands-on and do not hide behind reviewers; a letter like this will not be coming from us:
+<p>When you submit a paper to us, one of the associate editors shown below, or Louise or I, signs on to shepherd it, soliciting reviewers, reading it carefully, and eventually – preferably within sixty days – writing a thorough and constructive letter of decision to you, informed by the reviews and approved by the whole editorial team.</p> <p>There are two key words here, <b>sixty</b> and <b>informed</b>. Sixty: It is our ambition that you should not have to wait for a decision for more than that number of days. Informed: It is likewise our policy to form a well-considered and comprehensive opinion of your submission and to communicate this opinion to you in a clear and helpful way.</p> 
+
+<div><table border="1" cellspacing="1" class="center" style="margin-top:1.3em">
+	<caption style="caption-side:bottom; padding:6px">Kristen Syrett, Judith Degen, Anthony Gillies, Hazel Pearson, Elin McCready, Chris Barker, Judith Tonhauser, Malte Willer, Mandy Simons</caption>
+	
+	<tr>
+		<td height="106px" id="td2"><img style="height:116px" src="/pics/syrett.jpg"></td>
+		<td id="td2"><img align="center" height="116px" src="/pics/degen.jpeg"></td>
+		<td id="td2"><img style="height:116px" src="/pics/gillies.jpeg"></td>
+		<td id="td2"><img style="height:116px" src="/pics/pearson.jpeg"></td>
+		<td id="td2"><img style="height:116px" src="/pics/mccready.jpg"></td>
+		<td id="td2"><img style="height:116px" src="/pics/barker.jpg"></td>
+		<td id="td2"><img style="height:116px" src="/pics/tonhauser.jpg"></td>
+		<td id="td2"><img style="height:116px" src="/pics/willer.jpeg"></td>
+		<td id="td2"><img style="height:116px" src="/pics/simons.jpeg"></td>		</tr>
+	
+</table></div>
+
+
+<p>In other words, we are hands-on and do not hide behind reviewers and publishers' officers; a letter like this will not be coming from us:
 </p>
-<div style="width: 800px; background: linear-gradient(#F1949C, 10%, #FDEFF0); padding: 0px 20px 0px 20px; margin: 0px 20px 0px 0px; border: #333 1pt solid"><p>Dear ****,</p>
+<div class="popup" onclick="myFunction()"><p style="text-align: center; color: gray">Your Submission XXXX-X-00-00000</p>
+  <span class="popuptext" id="myPopup"><p>Dear ****,</p>
 <p>
 We have received reports from two advisors on your manuscript XXXX-X-00-00000 "******".
 </p><p>
@@ -27,8 +105,11 @@ With regret, I must inform you that, based on the advice received, the Editors h
 I would like to thank you very much for forwarding your manuscript to us for consideration and wish you every success in finding an alternative place of publication.
 </p><p>
 With kind regards,
-</p></div>
-	<div style="float:right;"><a href="https://www.linguisticsociety.org"><img style="height:60px;" src="/pics/LSAlogocmykWEB.jpg"></a></div><p>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</p>
+</p></span>
+</div>
+<p>&nbsp;</br>&nbsp;</p>
+
+<div style="float:right;"><a href="https://www.linguisticsociety.org"><img style="height:60px;" src="/pics/LSAlogocmykWEB.jpg"></a></div><p>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</br>&nbsp;</p>
 	
 	
 
