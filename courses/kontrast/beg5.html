@@ -1,0 +1,50 @@
+---
+layout: post2
+title: "Inhaltliche Beziehungen in Attributstrukturen"
+---
+<style>
+h3 {
+margin-top: 1.3em;
+  margin-bottom: 14px;
+}
+    h2 {
+      margin-top: 1.4em;
+        margin-bottom: 15px;
+    }
+</style>
+<div class="ingress"><p>Kehren wir zu Nomenphrasen mit nachgestellten Attributen zur&uuml;ck. Bisher haben wir nur die pure Struktur solcher Phrasen beschrieben &ndash; bis auf eines; zus&auml;tzlich zur reinen Zerlegung wurden die einzelnen Attribute mit "NP" oder "PP" als Nomen- oder Pr&auml;positionsphrasen gekennzeichnet. Jetzt wollen wir auf die inhaltlichen Beziehungen zwischen Nomen und Attributen n&auml;her eingehen.</p></div>
+<h3>Erster Schritt: Objektiver Genitiv</h3>
+<p>Nehmen wir uns zun&auml;chst einmal ein einfaches Beispiel vor:</p>
+<p>(1) &nbsp;Nach dem Genuss N&uuml;rnberger Rostbratw&uuml;rstchen wurde die Reise fortgesetzt.</p>
+<p>Rein formal stellen wir zuallererst fest, dass es sich bei der Wortform "N&uuml;rnberger" hier um ein grammatisches Paradox handelt: Da ist ein Genitiv gemeint, der strenggenommen aber nicht zum Ausdruck gebracht wird, da die -er-Endung damit draufgeht, das Adjektiv vom Ortsnamen abzuleiten. Zu erwarten w&auml;re die Form "N&uuml;rnbergerer", die gibt es aber nicht.&nbsp;</p>
+<p>Das nur nebenbei. Es geht uns um die NP&nbsp;</p>
+<p>(2) &nbsp;dem Genuss [<sub>NP</sub> N&uuml;rnberger Rostbratw&uuml;rstchen ]</p>
+<p>und vordergr&uuml;ndig dabei um die inhaltliche Beziehung zwischen dem Kernnomen "Genuss" und der Genitiv-NP "N&uuml;rnberger Rostbratw&uuml;rstchen". Die Schl&uuml;sselbeobachtung: Diese Beziehung tritt dann zu Tage, wenn</p>
+<ul>
+    <li>eine bestimmte Wortableitung r&uuml;ckg&auml;ngig gemacht wird und</li>
+    <li>ein anderer Kasus den Genitiv ersetzt.</li>
+</ul>
+<p>Jene Wortableitung ist die Nominalisierung des Verbs "genie&szlig;en", und dieser Kasus ist der Akkusativ. (2) geht so auf (3) zur&uuml;ck:</p>
+<p>(3) &nbsp;[<sub>NP</sub> N&uuml;rnberger Rostbratw&uuml;rstchen ] genie&szlig;en</p>
+<p>Man kann es nicht h&ouml;ren oder sehen, aber die NP steht jetzt nicht mehr im Genitiv sondern im Akkusativ. In der Tat ist sie ein Akkusativobjekt, dasjenige, das zum transitiven Verb "genie&szlig;en" geh&ouml;rt.</p>
+<p>Daher also die Bezeichnung <strong>objektiver Genitiv</strong>.</p>
+<h3>Zweiter Schritt: Subjektiver Genitiv</h3>
+<p>Anders liegt es hier:</p>
+<p>(4) &nbsp;<span>Am Mittwoch kam es in der N&auml;he des Weilburger Landtores zu einem Angriff einer Frau auf einen 12-J&auml;hrigen. Die Polizei sucht nach Zeugen.</span></p>
+<p><span>(5) &nbsp;einem [ Angriff [<sub>NP</sub> einer Frau ]] [<sub>PP</sub> auf einen 12-J&auml;hrigen ]</span></p>
+<p>Sowohl das Subjekt als auch das Akkusativobjekt des zugrundeliegenden Verbs "angreifen" kommen als Attribute der Nominalisierung "Angriff" zum Ausdruck, und zwar ersteres direkt als Genitiv-NP und letzteres indirekt als PP mit "auf" + Akkusativ. Da dies die Art ist, die Objektrolle als Attribut zum Ausdruck zu bringen, wird der Genitiv freigemacht f&uuml;r die Subjektrolle, hier das Agens. <strong>Subjektiver Genitiv</strong> also.</p>
+<p>Wenn das zugrundeliegende Verb intransitiv ist, also kein Akkusativobjekt haben kann, wird auch von einem subjektiven Genitiv gesprochen, selbst wenn es sich um eine Patiensrolle handelt:</p>
+<p>(6) &nbsp;<span>Durch das<em> </em></span>Erliegen [<sub>NP</sub> des Tourismus ]<span> wurden die Flugh&auml;fen geschlossen.</span></p>
+<h3>Dritter Schritt: Subjektive Pr&auml;position</h3>
+<p>Wieder anders liegt es hier:</p>
+<p>(7) &nbsp;<span>Als </span>Strafe f&uuml;r den [ Raub [<sub>NP</sub> des Feuers ]]<span>&nbsp;[<sub>PP</sub> durch Prometheus ] bringt Zeus den Menschen die Frauen.</span></p>
+<p><span>Die g&auml;ngige Art, sowohl die Subjektrolle als auch die Akkusativobjektrolle eines transitiven Verbs an eine Nominaliserung des Verbs anzubinden, besteht in&nbsp;</span></p>
+<ul>
+    <li><span>einen objektiven Genitiv und </span></li>
+    <li><span>eine subjektive Pr&auml;position: "durch"</span></li>
+</ul>
+<p><span>Diese Pr&auml;position wird ja auch eingesetzt, um Subjektrollen im Passiv zum Ausdruck zu bringen &ndash; wo sie aber dort gegen&uuml;ber "von" die zweite Geige spielt, ist sie hier die einzig m&ouml;gliche. Etwa "den Raub des Feuers von Prometheus" l&auml;sst sich nicht so deuten.</span></p>
+<p>Die vollst&auml;ndige Struktur der NP "Strafe f&uuml;r den Raub des Feuers durch Prometheus"? Hier zun&auml;chst der LaTeX-Code:</p>
+<p><span style="background-color: #bfedd2;">\begin{forest}</span><br /><span style="background-color: #bfedd2;">[N [N [Strafe]] [PP [P [f{\" u}r]] [NP [D [den]] [N [N [N <span style="color: #ffffff; background-color: #169179;">[Raub]</span>] [NP [D [des]] [N [Feuers]]]] [PP [P [durch]] [NP [N [Prometheus]]]]]]]]</span><br /><span style="background-color: #bfedd2;">\end{forest}</span></p>
+<p>Der diesen Baum erzeugt:</p>
+<div><figure style="text-align: center"><img src="/pics/baum-1.png" width="400"></figure></div>
